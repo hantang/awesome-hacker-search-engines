@@ -76,7 +76,7 @@
 
 - [NIST NVD](https://nvd.nist.gov/vuln/search) - 美国国家漏洞数据库
 - [MITRE CVE](https://cve.mitre.org/cve/search_cve_list.html) - 识别、定义和登记编目公开披露的网络安全漏洞
-- [GitHub Advisory Database](https://github.com/advisories) - 包括 CVE 和 GitHub 原始安全通告的安全漏洞数据库
+- [GitHub Advisory Database](https://github.com/advisories) - 包括 CVE 和源自 GitHub 的安全通告的安全漏洞数据库
 - [cloudvulndb.org](https://www.cloudvulndb.org/) - 开放云漏洞和安全问题数据库
 - [osv.dev](https://osv.dev/list) - 开源漏洞
 - [Vulners.com](https://vulners.com/) - 安全情报的搜索引擎
@@ -488,7 +488,7 @@
 - [Living off the False Positive](https://br0k3nlab.com/LoFP/) - 从一些最受欢迎的规则集中自动生成的误报收藏列表
 - [HijackLibs](https://hijacklibs.net/) - 跟踪公开披露的 DLL 劫持机会的项目
 - [bootloaders.io](https://www.bootloaders.io/) - 已知的针对各种操作系统的恶意引导程序的精选列表
-- [WTFBins](https://wtfbins.wtf/) - 目录良性应用程序，展示可疑行为。这些二进制文件可以在威胁狩猎和自动检测中产生噪声和误报
+- [WTFBins](https://wtfbins.wtf/) - 对展示可疑行为良性应用程序进行编目登记。这些二进制文件可以在威胁狩猎和自动检测中产生噪声和误报
 - [LOFLCAB](https://lofl-project.github.io/) - 记录可用于异国离地攻击技术（LOFTL）的命令程序、二进制文件、脚本和 WMI 类
 - [OpSecFailure](https://opsecfail.github.io/) - 列出个人如何搞砸他们的操作安全的网站，此网站上不共享个人信息
 - [TrailDiscover](https://traildiscover.cloud/) - 一个不断发展的 CloudTrail 事件存储库，包含详细的描述、MITRE ATT&CK 洞察、真实世界的事件、参考资料和安全影响

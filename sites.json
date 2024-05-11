@@ -267,7 +267,7 @@
           "link": "https://github.com/advisories",
           "desc": {
             "en": "Security vulnerability database inclusive of CVEs and GitHub originated security advisories",
-            "zh": "包括 CVE 和 GitHub 原始安全通告的安全漏洞数据库"
+            "zh": "包括 CVE 和源自 GitHub 的安全通告的安全漏洞数据库"
           }
         },
         {
@@ -3291,7 +3291,7 @@
           "link": "https://wtfbins.wtf/",
           "desc": {
             "en": "Catalogue benign applications that exhibit suspicious behavior. These binaries can emit noise and false positives in threat hunting and automated detections",
-            "zh": "目录良性应用程序，展示可疑行为。这些二进制文件可以在威胁狩猎和自动检测中产生噪声和误报"
+            "zh": "对展示可疑行为良性应用程序进行编目登记。这些二进制文件可以在威胁狩猎和自动检测中产生噪声和误报"
           }
         },
         {
