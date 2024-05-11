@@ -1,0 +1,3915 @@
+{
+  "all": [
+    {
+      "topic": {
+        "en": "General Search Engines",
+        "zh": "通用搜索引擎"
+      },
+      "websites": [
+        {
+          "name": "Google",
+          "link": "https://www.google.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Bing",
+          "link": "https://www.bing.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Yahoo!",
+          "link": "http://www.yahoo.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Yandex",
+          "link": "https://yandex.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Ask",
+          "link": "https://www.ask.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Baidu",
+          "link": "https://www.baidu.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "You",
+          "link": "https://you.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "SearXNG",
+          "link": "https://searx.be/?q=",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "EXALead",
+          "link": "http://www.exalead.com/search/web/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "DuckDuckGo",
+          "link": "https://duckduckgo.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Swisscows",
+          "link": "https://swisscows.com/en",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Naver",
+          "link": "https://www.naver.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "AOL",
+          "link": "https://search.aol.com",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Brave",
+          "link": "https://search.brave.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Yep",
+          "link": "https://yep.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Gibiru",
+          "link": "https://gibiru.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Kagi",
+          "link": "https://kagi.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Stract",
+          "link": "https://stract.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Servers",
+        "zh": "服务器"
+      },
+      "websites": [
+        {
+          "name": "Shodan",
+          "link": "https://shodan.io",
+          "desc": {
+            "en": "Search Engine for the Internet of Everything",
+            "zh": "万物互联的搜索引擎"
+          }
+        },
+        {
+          "name": "Censys Search",
+          "link": "https://search.censys.io/",
+          "desc": {
+            "en": "Search Engine for every server on the Internet to reduce exposure and improve security",
+            "zh": "对互联网上每个服务器减少曝光并提高安全性的搜索引擎"
+          }
+        },
+        {
+          "name": "Onyphe.io",
+          "link": "https://www.onyphe.io/",
+          "desc": {
+            "en": "Cyber Defense Search Engine for open-source and cyber threat intelligence data",
+            "zh": "开源和网络威胁情报数据的网络防御搜索引擎"
+          }
+        },
+        {
+          "name": "ZoomEye",
+          "link": "https://www.zoomeye.org/",
+          "desc": {
+            "en": "Global cyberspace mapping",
+            "zh": "全球网络空间测绘"
+          }
+        },
+        {
+          "name": "GreyNoise",
+          "link": "https://viz.greynoise.io/",
+          "desc": {
+            "en": "The source for understanding internet noise",
+            "zh": "理解互联网噪声的来源"
+          }
+        },
+        {
+          "name": "Natlas",
+          "link": "https://natlas.io/",
+          "desc": {
+            "en": "Scaling Network Scanning",
+            "zh": "扩展网络扫描"
+          }
+        },
+        {
+          "name": "Netlas.io",
+          "link": "https://netlas.io/",
+          "desc": {
+            "en": "Discover, Research and Monitor any Assets Available Online",
+            "zh": "发现、研究和监控任何在线可用资产"
+          }
+        },
+        {
+          "name": "FOFA",
+          "link": "https://fofa.info/",
+          "desc": {
+            "en": "Cyberspace mapping",
+            "zh": "网络空间测绘"
+          }
+        },
+        {
+          "name": "Quake",
+          "link": "https://quake.360.net/quake/#/index",
+          "desc": {
+            "en": "Cyberspace surveying and mapping system",
+            "zh": "网络空间调查和测绘系统"
+          }
+        },
+        {
+          "name": "Hunter",
+          "link": "https://hunter.how/",
+          "desc": {
+            "en": "Internet Search Engines For Security Researchers",
+            "zh": "安全研究人员的互联网搜索引擎"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Vulnerabilities",
+        "zh": "漏洞"
+      },
+      "websites": [
+        {
+          "name": "NIST NVD",
+          "link": "https://nvd.nist.gov/vuln/search",
+          "desc": {
+            "en": "US National Vulnerability Database",
+            "zh": "美国国家漏洞数据库"
+          }
+        },
+        {
+          "name": "MITRE CVE",
+          "link": "https://cve.mitre.org/cve/search_cve_list.html",
+          "desc": {
+            "en": "Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities",
+            "zh": "识别、定义和登记编目公开披露的网络安全漏洞"
+          }
+        },
+        {
+          "name": "GitHub Advisory Database",
+          "link": "https://github.com/advisories",
+          "desc": {
+            "en": "Security vulnerability database inclusive of CVEs and GitHub originated security advisories",
+            "zh": "包括 CVE 和 GitHub 原始安全通告的安全漏洞数据库"
+          }
+        },
+        {
+          "name": "cloudvulndb.org",
+          "link": "https://www.cloudvulndb.org/",
+          "desc": {
+            "en": "The Open Cloud Vulnerability & Security Issue Database",
+            "zh": "开放云漏洞和安全问题数据库"
+          }
+        },
+        {
+          "name": "osv.dev",
+          "link": "https://osv.dev/list",
+          "desc": {
+            "en": "Open Source Vulnerabilities",
+            "zh": "开源漏洞"
+          }
+        },
+        {
+          "name": "Vulners.com",
+          "link": "https://vulners.com/",
+          "desc": {
+            "en": "Your Search Engine for Security Intelligence",
+            "zh": "安全情报的搜索引擎"
+          }
+        },
+        {
+          "name": "opencve.io",
+          "link": "https://www.opencve.io/cve",
+          "desc": {
+            "en": "Easiest way to track CVE updates and be alerted about new vulnerabilities",
+            "zh": "跟踪 CVE 更新并获取新漏洞告警的最简单方法"
+          }
+        },
+        {
+          "name": "security.snyk.io",
+          "link": "https://security.snyk.io/",
+          "desc": {
+            "en": "Open Source Vulnerability Database",
+            "zh": "开源漏洞数据库"
+          }
+        },
+        {
+          "name": "Mend Vulnerability Database",
+          "link": "https://www.mend.io/vulnerability-database/",
+          "desc": {
+            "en": "The largest open source vulnerability DB",
+            "zh": "最大的开源漏洞数据库"
+          }
+        },
+        {
+          "name": "Rapid7 - DB",
+          "link": "https://www.rapid7.com/db/",
+          "desc": {
+            "en": "Vulnerability & Exploit Database",
+            "zh": "漏洞与漏洞利用数据库"
+          }
+        },
+        {
+          "name": "CVEDetails",
+          "link": "https://www.cvedetails.com/",
+          "desc": {
+            "en": "The ultimate security vulnerability datasource",
+            "zh": "终极安全漏洞数据源"
+          }
+        },
+        {
+          "name": "VulnIQ",
+          "link": "https://vulniq.com/",
+          "desc": {
+            "en": "Vulnerability intelligence and management solution",
+            "zh": "漏洞情报和管理解决方案"
+          }
+        },
+        {
+          "name": "SynapsInt",
+          "link": "https://synapsint.com/",
+          "desc": {
+            "en": "The unified OSINT research tool",
+            "zh": "统一的 OSINT 研究工具"
+          }
+        },
+        {
+          "name": "Aqua Vulnerability Database",
+          "link": "https://avd.aquasec.com/",
+          "desc": {
+            "en": "Vulnerabilities and weaknesses in open source applications and cloud native infrastructure",
+            "zh": "开源应用程序和云原生基础设施中的漏洞和弱点"
+          }
+        },
+        {
+          "name": "Vulmon",
+          "link": "https://vulmon.com/",
+          "desc": {
+            "en": "Vulnerability and exploit search engine",
+            "zh": "漏洞和漏洞利用的搜索引擎"
+          }
+        },
+        {
+          "name": "VulDB",
+          "link": "https://vuldb.com/",
+          "desc": {
+            "en": "Number one vulnerability database",
+            "zh": "头号漏洞数据库"
+          }
+        },
+        {
+          "name": "ScanFactory",
+          "link": "https://in.scanfactory.io/cvemon.html",
+          "desc": {
+            "en": "Realtime Security Monitoring",
+            "zh": "实时安全监控"
+          }
+        },
+        {
+          "name": "Trend Micro Zero Day Initiative",
+          "link": "https://www.zerodayinitiative.com/advisories/published/",
+          "desc": {
+            "en": "Publicly disclosed vulnerabilities discovered by Zero Day Initiative researchers",
+            "zh": "由零日倡议研究人员发现的公开披露漏洞"
+          }
+        },
+        {
+          "name": "Google Project Zero",
+          "link": "https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary",
+          "desc": {
+            "en": "Vulnerabilities including Zero Days",
+            "zh": "包括零日漏洞的漏洞"
+          }
+        },
+        {
+          "name": "Trickest CVE Repository",
+          "link": "https://github.com/trickest/cve",
+          "desc": {
+            "en": "Gather and update all available and newest CVEs with their PoC",
+            "zh": "收集并更新所有可用和最新的 CVE 及其 PoC"
+          }
+        },
+        {
+          "name": "cnvd.org.cn",
+          "link": "https://www.cnvd.org.cn/",
+          "desc": {
+            "en": "Chinese National Vulnerability Database",
+            "zh": "中国国家漏洞数据库"
+          }
+        },
+        {
+          "name": "InTheWild.io",
+          "link": "https://inthewild.io/feed",
+          "desc": {
+            "en": "Check CVEs in our free, open source feed of exploited vulnerabilities",
+            "zh": "在我们的免费、开源的漏洞利用源中检查 CVE"
+          }
+        },
+        {
+          "name": "Vulnerability Lab",
+          "link": "https://www.vulnerability-lab.com/",
+          "desc": {
+            "en": "Vulnerability research, bug bounties and vulnerability assessments",
+            "zh": "漏洞研究、漏洞悬赏和漏洞评估"
+          }
+        },
+        {
+          "name": "Red Hat Security Advisories",
+          "link": "https://access.redhat.com/security/security-updates/",
+          "desc": {
+            "en": "Information about security flaws that affect Red Hat products and services in the form of security advisories",
+            "zh": "对影响红帽（ Red Hat）产品和服务的安全漏洞以安全通告的形式提供信息"
+          }
+        },
+        {
+          "name": "Cisco Security Advisories",
+          "link": "https://sec.cloudapps.cisco.com/security/center/publicationListing.x",
+          "desc": {
+            "en": "Security advisories and vulnerability information for Cisco products, including network equipment and software",
+            "zh": "对包括网络设备和软件在内的思科产品安全通告和漏洞信息"
+          }
+        },
+        {
+          "name": "Microsoft Security Response Center",
+          "link": "https://msrc.microsoft.com/update-guide/en-us",
+          "desc": {
+            "en": "Reports of security vulnerabilities affecting Microsoft products and services",
+            "zh": "影响微软产品和安全漏洞的报告"
+          }
+        },
+        {
+          "name": "VARIoT",
+          "link": "https://www.variotdbs.pl/vulns/",
+          "desc": {
+            "en": "VARIoT IoT Vulnerabilities Database",
+            "zh": "VARIoT 物联网漏洞数据库"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Exploits",
+        "zh": "漏洞利用"
+      },
+      "websites": [
+        {
+          "name": "Exploit-DB",
+          "link": "https://www.exploit-db.com/",
+          "desc": {
+            "en": "Exploit Database",
+            "zh": "漏洞利用数据库"
+          }
+        },
+        {
+          "name": "Sploitus",
+          "link": "https://sploitus.com/",
+          "desc": {
+            "en": "Convenient central place for identifying the newest exploits",
+            "zh": "识别最新的漏洞利用便捷中心"
+          }
+        },
+        {
+          "name": "Rapid7 - DB",
+          "link": "https://www.rapid7.com/db/",
+          "desc": {
+            "en": "Vulnerability & Exploit Database",
+            "zh": "漏洞与漏洞利用数据库"
+          }
+        },
+        {
+          "name": "Vulmon",
+          "link": "https://vulmon.com/",
+          "desc": {
+            "en": "Vulnerability and exploit search engine",
+            "zh": "漏洞和漏洞利用的搜索引擎"
+          }
+        },
+        {
+          "name": "packetstormsecurity.com",
+          "link": "https://packetstormsecurity.com/",
+          "desc": {
+            "en": "Information Security Services, News, Files, Tools, Exploits, Advisories and ",
+            "zh": "信息安全服务、新闻、文件、工具、漏洞利用、通告和白皮书"
+          }
+        },
+        {
+          "name": "0day.today",
+          "link": "https://0day.today/",
+          "desc": {
+            "en": "Ultimate database of exploits and vulnerabilities",
+            "zh": "漏洞利用和漏洞的终极数据库"
+          }
+        },
+        {
+          "name": "LOLBAS",
+          "link": "https://lolbas-project.github.io/",
+          "desc": {
+            "en": "Living Off The Land Binaries, Scripts and Libraries",
+            "zh": "离地攻击技术（LotL）二进制文件、脚本和库"
+          }
+        },
+        {
+          "name": "GTFOBins",
+          "link": "https://gtfobins.github.io/",
+          "desc": {
+            "en": "Curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems",
+            "zh": "Unix 二进制文件精选列表，可用于绕过错误配置系统中的本地安全限制"
+          }
+        },
+        {
+          "name": "Payloads All The Things",
+          "link": "https://swisskyrepo.github.io/PayloadsAllTheThingsWeb/",
+          "desc": {
+            "en": "A list of useful payloads and bypasses for Web Application Security",
+            "zh": "Web 应用程序安全的有用有效载荷和绕过列表"
+          }
+        },
+        {
+          "name": "XSS Payloads",
+          "link": "http://www.xss-payloads.com/",
+          "desc": {
+            "en": "The wonderland of JavaScript unexpected usages, and more",
+            "zh": "汇集 JavaScript 中意外用法及更多用法的奇境"
+          }
+        },
+        {
+          "name": "exploitalert.com",
+          "link": "https://www.exploitalert.com/search-results.html",
+          "desc": {
+            "en": "Database of Exploits",
+            "zh": "漏洞利用的数据库"
+          }
+        },
+        {
+          "name": "Reverse Shell generator",
+          "link": "https://www.revshells.com/",
+          "desc": {
+            "en": "Online Reverse Shell generator with Local Storage functionality, URI & Base64 Encoding, MSFVenom Generator, and Raw Mode",
+            "zh": "在线逆向 Shell 生成器，具有本地存储功能，URI 和 Base64 编码，MSFVenom 生成器以及原始模式"
+          }
+        },
+        {
+          "name": "HackerOne hacktivity",
+          "link": "https://hackerone.com/hacktivity",
+          "desc": {
+            "en": "See the latest hacker activity on HackerOne",
+            "zh": "查看 HackerOne 上的最新黑客活动"
+          }
+        },
+        {
+          "name": "Bugcrowd Crowdstream",
+          "link": "https://bugcrowd.com/crowdstream",
+          "desc": {
+            "en": "Showcase of accepted and disclosed submissions on Bugcrowd programs",
+            "zh": "Bugcrowd 程序上被接受和披露的提交展示"
+          }
+        },
+        {
+          "name": "GTFOArgs",
+          "link": "https://gtfoargs.github.io/",
+          "desc": {
+            "en": "Curated list of Unix binaries that can be manipulated for argument injection",
+            "zh": "Unix 二进制文件精选列表，可以用于参数注入操控"
+          }
+        },
+        {
+          "name": "shell-storm.org/shellcode",
+          "link": "https://shell-storm.org/shellcode/index.html",
+          "desc": {
+            "en": "Shellcodes database for study cases",
+            "zh": "用于案例研究的 Shellcode 数据库"
+          }
+        },
+        {
+          "name": "Hacking the Cloud",
+          "link": "https://hackingthe.cloud/",
+          "desc": {
+            "en": "Encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure",
+            "zh": "攻击/战术/技术百科全书，可供进攻性安全专业人员在下一次云开发中使用"
+          }
+        },
+        {
+          "name": "LOLDrivers",
+          "link": "https://www.loldrivers.io/",
+          "desc": {
+            "en": "Open-source project that brings together vulnerable, malicious, and known malicious Windows drivers",
+            "zh": "汇集了易受攻击、恶意和已知恶意的 Windows 驱动程序开源项目"
+          }
+        },
+        {
+          "name": "PwnWiki",
+          "link": "http://pwnwiki.io/",
+          "desc": {
+            "en": "Collection of TTPs (tools, tactics, and procedures) for what to do after access has been gained",
+            "zh": "在获得访问权限后要用的 TTP（工具、战术和程序）收藏列表"
+          }
+        },
+        {
+          "name": "CVExploits Search",
+          "link": "https://cvexploits.io/",
+          "desc": {
+            "en": "Your comprehensive database for CVE exploits from across the internet",
+            "zh": "来自互联网上的 CVE 漏洞利用的全面数据库"
+          }
+        },
+        {
+          "name": "VARIoT",
+          "link": "https://www.variotdbs.pl/exploits/",
+          "desc": {
+            "en": "VARIoT IoT exploits database",
+            "zh": "VARIoT 物联网漏洞利用数据库"
+          }
+        },
+        {
+          "name": "LOOBins",
+          "link": "https://www.loobins.io/",
+          "desc": {
+            "en": "Detailed information on various built-in macOS binaries and how they can be used by threat actors for malicious purposes",
+            "zh": "有关各种内置 macOS 二进制文件的详细信息，以及威胁行为者如何将其用于恶意目的"
+          }
+        },
+        {
+          "name": "Coalition Exploit Scoring System",
+          "link": "https://ess.coalitioninc.com/",
+          "desc": {
+            "en": "Model that dynamically scores new and existing vulnerabilities to reflect their exploit likelihood",
+            "zh": "动态评分新的和现有的漏洞，以反映其利用可能性的模型"
+          }
+        },
+        {
+          "name": "WADComs",
+          "link": "https://wadcoms.github.io/",
+          "desc": {
+            "en": "Interactive cheat sheet containing a curated list of offensive security tools and their respective commands to be used against Windows/AD environments",
+            "zh": "交互式备忘单，包含有用的进攻性安全工具及其针对 Windows/AD 环境的相应命令的精选列表"
+          }
+        },
+        {
+          "name": "LOLAPPS",
+          "link": "https://lolapps-project.github.io/",
+          "desc": {
+            "en": "Compendium of applications that can be used to carry out day-to-day exploitation",
+            "zh": "可用于日常漏洞利用的应用程序汇编"
+          }
+        },
+        {
+          "name": "Living off the Hardware",
+          "link": "https://lothardware.com.tr/",
+          "desc": {
+            "en": "Resource collection that provides guidance on identifying and utilizing malicious hardware and malicious devices",
+            "zh": "提供指导并以识别和利用恶意硬件和恶意设备的资源收藏列表"
+          }
+        },
+        {
+          "name": "Living Off the Pipeline",
+          "link": "https://boostsecurityio.github.io/lotp/",
+          "desc": {
+            "en": "How development tools commonly used in CI/CD pipelines can be used to achieve arbitrary code execution",
+            "zh": "CI/CD 管道中常用的开发工具是如何用于实现任意代码执行的"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Attack Surface",
+        "zh": "攻击面"
+      },
+      "websites": [
+        {
+          "name": "FullHunt.io",
+          "link": "https://fullhunt.io/",
+          "desc": {
+            "en": "Attack surface database of the entire Internet",
+            "zh": "整个互联网的攻击面数据库"
+          }
+        },
+        {
+          "name": "BinaryEdge",
+          "link": "https://www.binaryedge.io/",
+          "desc": {
+            "en": "We scan the web and gather data for you",
+            "zh": "我们为您扫描网络并收集数据"
+          }
+        },
+        {
+          "name": "Censys ASM",
+          "link": "https://censys.io/",
+          "desc": {
+            "en": "Attack Surface Management Solutions",
+            "zh": "攻击面管理解决方案"
+          }
+        },
+        {
+          "name": "RedHunt Labs",
+          "link": "https://redhuntlabs.com/",
+          "desc": {
+            "en": "Discover your Attack Surface, Continuously",
+            "zh": "持续发现您的攻击面"
+          }
+        },
+        {
+          "name": "SecurityTrails",
+          "link": "https://securitytrails.com/",
+          "desc": {
+            "en": "The Total Internet Inventory",
+            "zh": "完整的互联网库存"
+          }
+        },
+        {
+          "name": "overcast-security.com",
+          "link": "https://overcast-security.com/",
+          "desc": {
+            "en": "We make tracking your external attack surface easy",
+            "zh": "我们使跟踪您的外部攻击面变得容易"
+          }
+        },
+        {
+          "name": "IPInfo.io",
+          "link": "https://ipinfo.io/",
+          "desc": {
+            "en": "The trusted source for IP address data",
+            "zh": "IP 地址数据的可信来源"
+          }
+        },
+        {
+          "name": "IPData.co",
+          "link": "https://ipdata.co/",
+          "desc": {
+            "en": "IP Geolocation and Threat Intelligence API",
+            "zh": "IP 地理定位和威胁情报 API"
+          }
+        },
+        {
+          "name": "NetworksDB",
+          "link": "https://networksdb.io/",
+          "desc": {
+            "en": "Information about the public IPv4 and IPv6 addresses, networks and domains owned by companies and organisations across the world",
+            "zh": "关于全球公司和组织拥有的公共 IPv4 和 IPv6 地址、网络和域的信息"
+          }
+        },
+        {
+          "name": "ASNlookup",
+          "link": "https://asnlookup.com/",
+          "desc": {
+            "en": "Quickly lookup updated information about specific Autonomous System Number (ASN), Organization, CIDR, or registered IP addresses (IPv4 and IPv6) among other relevant data",
+            "zh": "快速查找特定自治系统号码（ASN）、组织、CIDR 或注册 IP 地址（IPv4 和 IPv6）的最新信息及其他相关数据"
+          }
+        },
+        {
+          "name": "BGPtools",
+          "link": "https://bgp.tools/",
+          "desc": {
+            "en": "Browse the Internet ecosystem",
+            "zh": "浏览互联网生态系统"
+          }
+        },
+        {
+          "name": "BGPview",
+          "link": "https://bgpview.io/",
+          "desc": {
+            "en": "Debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, Prefixes and Domain names",
+            "zh": "调试和调查有关 IP 地址、ASN、IX、BGP、ISP、前缀和域名的信息"
+          }
+        },
+        {
+          "name": "BigDataCloud",
+          "link": "https://www.bigdatacloud.com/",
+          "desc": {
+            "en": "The API provides comprehensive location and network data",
+            "zh": "API 提供全面的位置和网络数据"
+          }
+        },
+        {
+          "name": "RADb",
+          "link": "https://www.radb.net/query",
+          "desc": {
+            "en": "The world's largest public routing registry",
+            "zh": "世界上最大的公共路由注册表"
+          }
+        },
+        {
+          "name": "Deepinfo",
+          "link": "https://www.deepinfo.com/",
+          "desc": {
+            "en": "Empower your security with the most comprehensive Internet data",
+            "zh": "用最全面的互联网数据增强您的安全"
+          }
+        },
+        {
+          "name": "CloudFlare Radar",
+          "link": "https://radar.cloudflare.com/",
+          "desc": {
+            "en": "Global Internet traffic, attack, and technology trends and insights",
+            "zh": "全球互联网流量、攻击和技术的趋势和见解"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Code",
+        "zh": "代码"
+      },
+      "websites": [
+        {
+          "name": "GitHub Code Search",
+          "link": "https://github.com/search?type=code",
+          "desc": {
+            "en": "Search globally across all of GitHub, or scope your search to a particular repository or organization",
+            "zh": "全局搜索 GitHub 上的内容，或将搜索范围限制在特定代码仓库或组织"
+          }
+        },
+        {
+          "name": "GitLab Code Search",
+          "link": "https://gitlab.com/",
+          "desc": {
+            "en": "Advanced search for faster, more efficient search across the entire GitLab instance",
+            "zh": "更快、更有效地搜索整个 GitLab 实例的高级搜索"
+          }
+        },
+        {
+          "name": "Sourceforge",
+          "link": "https://sourceforge.net/",
+          "desc": {
+            "en": "Complete Open-Source and Business Software Platform",
+            "zh": "完整的开源和商业软件平台"
+          }
+        },
+        {
+          "name": "grep.app",
+          "link": "https://grep.app/",
+          "desc": {
+            "en": "Search across a half million git repos",
+            "zh": "在五十万个 git 代码仓库中搜索"
+          }
+        },
+        {
+          "name": "publicwww.com",
+          "link": "https://publicwww.com/",
+          "desc": {
+            "en": "Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code",
+            "zh": "在网页的 HTML、JS 和 CSS 代码中查找任何字母与数字格式的片段、签名或关键字"
+          }
+        },
+        {
+          "name": "SearchCode",
+          "link": "https://searchcode.com/",
+          "desc": {
+            "en": "Search 75 billion lines of code from 40 million projects",
+            "zh": "搜索 4000 万个项目中的 750 亿行代码"
+          }
+        },
+        {
+          "name": "NerdyData",
+          "link": "https://www.nerdydata.com/",
+          "desc": {
+            "en": "Find companies based on their website's tech stack or code",
+            "zh": "基于网站的技术栈或代码查找公司"
+          }
+        },
+        {
+          "name": "RepoSearch",
+          "link": "http://codefinder.org/",
+          "desc": {
+            "en": "Source code search engine that helps you find implementation details, example usages or just analyze code",
+            "zh": "源代码搜索引擎，可帮助您查找实现细节、示例用法或仅仅分析代码"
+          }
+        },
+        {
+          "name": "SourceGraph",
+          "link": "https://about.sourcegraph.com/",
+          "desc": {
+            "en": "Understand and search across your entire codebase",
+            "zh": "理解并搜索整个代码库"
+          }
+        },
+        {
+          "name": "HotExamples",
+          "link": "https://hotexamples.com/",
+          "desc": {
+            "en": "Search code examples from over 1 million projects",
+            "zh": "从超过 100 万个项目中搜索代码示例"
+          }
+        },
+        {
+          "name": "WP Directory",
+          "link": "https://wpdirectory.net/",
+          "desc": {
+            "en": "Lightning fast regex searching of code in the WordPress Plugin and Theme Directories",
+            "zh": "对 WordPress 插件和主题目录的代码以雷电之速进行正则表达式搜索"
+          }
+        },
+        {
+          "name": "GitHub Gists",
+          "link": "https://gist.github.com/discover",
+          "desc": {
+            "en": "Instantly share code, notes, and snippets",
+            "zh": "即时分享代码、笔记和片段"
+          }
+        },
+        {
+          "name": "CodeBerg",
+          "link": "https://codeberg.org/explore/repos",
+          "desc": {
+            "en": "Collaboration platform and Git hosting for free and open source software, content and projects",
+            "zh": "自由（免费）和开源软件、内容和项目的协作平台和 Git 托管"
+          }
+        },
+        {
+          "name": "Fedora Pagure",
+          "link": "https://pagure.io/browse/projects/",
+          "desc": {
+            "en": "Open Source software code hosting system",
+            "zh": "开源软件代码托管系统"
+          }
+        },
+        {
+          "name": "LaunchPad",
+          "link": "https://launchpad.net/",
+          "desc": {
+            "en": "Software collaboration platform that provides: Bug tracking, Code hosting, Code reviews, Ubuntu package building and hosting, Translations...",
+            "zh": "提供缺陷跟踪、代码托管、代码审查、Ubuntu 软件包构建和托管、翻译等功能的软件协作平台"
+          }
+        },
+        {
+          "name": "repo.or.cz",
+          "link": "https://repo.or.cz/?a=project_list",
+          "desc": {
+            "en": "Public Git hosting site",
+            "zh": "公共 Git 托管站点"
+          }
+        },
+        {
+          "name": "gitorious.org",
+          "link": "https://gitorious.org/",
+          "desc": {
+            "en": "Read-only mirror of the former gitorious.org code hosting website",
+            "zh": "gitorious.org 代码托管网站的只读镜像"
+          }
+        },
+        {
+          "name": "Sourcehut",
+          "link": "https://sr.ht/projects",
+          "desc": {
+            "en": "Collection of tools useful for software development",
+            "zh": "对软件开发有用的工具收藏列表"
+          }
+        },
+        {
+          "name": "android.googlesource.com",
+          "link": "https://android.googlesource.com/",
+          "desc": {
+            "en": "Git repositories on android",
+            "zh": "Android 上的 Git 仓库"
+          }
+        },
+        {
+          "name": "deps.dev",
+          "link": "https://deps.dev/",
+          "desc": {
+            "en": "Service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages",
+            "zh": "由 Google 开发和托管的服务，可帮助开发人员更好地理解开源软件包的结构、构建和安全性"
+          }
+        },
+        {
+          "name": "WebFinery",
+          "link": "https://webfinery.com/search",
+          "desc": {
+            "en": "Search the source code of the web",
+            "zh": "搜索网页源代码"
+          }
+        },
+        {
+          "name": "Google Code Archive",
+          "link": "https://code.google.com/archive/",
+          "desc": {
+            "en": "Data found on the Google Code Project Hosting Service, which was turned down in early 2016",
+            "zh": "存放在 2016 年初关闭的 Google Code 项目托管服务上发现的数据"
+          }
+        },
+        {
+          "name": "Snipplr",
+          "link": "https://snipplr.com/all",
+          "desc": {
+            "en": "Code snippet search engine that allows users to search and share code snippets across various programming languages and frameworks",
+            "zh": "代码片段搜索引擎，允许用户跨各种编程语言和框架搜索和分享代码片段"
+          }
+        },
+        {
+          "name": "Postman Public Collections",
+          "link": "https://www.postman.com/explore/collections",
+          "desc": {
+            "en": "Explore the best APIs, collections, workspaces in the world on the Postman Public API Network",
+            "zh": "在 Postman 公共 API 网络上探索最佳的 API、收藏列表和工作区"
+          }
+        },
+        {
+          "name": "ScriptMafia",
+          "link": "https://scriptmafia.org",
+          "desc": {
+            "en": "Download full nulled scripts",
+            "zh": "下载完整的未授权脚本"
+          }
+        },
+        {
+          "name": "SearchFTPs",
+          "link": "https://www.searchftps.net/",
+          "desc": {
+            "en": "The most advanced FTP Search Engine service maintained by members",
+            "zh": "由成员维护的最先进的 FTP 搜索引擎服务"
+          }
+        },
+        {
+          "name": "Ecosyste.ms",
+          "link": "https://ecosyste.ms/",
+          "desc": {
+            "en": "An open API service providing package, version and dependency metadata of many open source software ecosystems and registries",
+            "zh": "提供许多开源软件生态系统和注册表的包、版本和依赖元数据的开放 API 服务"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Mail Addresses",
+        "zh": "邮件地址"
+      },
+      "websites": [
+        {
+          "name": "Hunter.io",
+          "link": "https://hunter.io/",
+          "desc": {
+            "en": "Find professional email addresses in seconds",
+            "zh": "在几秒钟内找到专业电子邮件地址"
+          }
+        },
+        {
+          "name": "PhoneBook",
+          "link": "https://phonebook.cz/",
+          "desc": {
+            "en": "Lists all domains, email addresses, or URLs for the given input domain",
+            "zh": "列出给定输入域的所有域、电子邮件地址或 URL"
+          }
+        },
+        {
+          "name": "IntelligenceX",
+          "link": "https://intelx.io/",
+          "desc": {
+            "en": "Search engine and data archive",
+            "zh": "搜索引擎和数据存档"
+          }
+        },
+        {
+          "name": "Reacher.email",
+          "link": "https://reacher.email/",
+          "desc": {
+            "en": "Open-Source Email Verification",
+            "zh": "开源电子邮件验证"
+          }
+        },
+        {
+          "name": "RocketReach",
+          "link": "https://rocketreach.co/",
+          "desc": {
+            "en": "Your first-degree connection to any professional",
+            "zh": "与任何专业人士的第一度联系"
+          }
+        },
+        {
+          "name": "email-format.com",
+          "link": "https://www.email-format.com/",
+          "desc": {
+            "en": "Find the email address formats in use at thousands of companies",
+            "zh": "查找数千家公司正在使用的电子邮件地址格式"
+          }
+        },
+        {
+          "name": "EmailHippo",
+          "link": "https://tools.emailhippo.com/",
+          "desc": {
+            "en": "Email address verification technology",
+            "zh": "电子邮件地址验证技术"
+          }
+        },
+        {
+          "name": "ThatsThem",
+          "link": "https://thatsthem.com/reverse-email-lookup",
+          "desc": {
+            "en": "Reverse email lookup",
+            "zh": "逆向电子邮件查找"
+          }
+        },
+        {
+          "name": "verify-email.org",
+          "link": "https://verify-email.org/",
+          "desc": {
+            "en": "Checks whether the mailbox exists or not",
+            "zh": "检查邮箱是否存在"
+          }
+        },
+        {
+          "name": "Melissa - Emailcheck",
+          "link": "https://www.melissa.com/v2/lookups/emailcheck/email/",
+          "desc": {
+            "en": "Check email addresses and verify they are live",
+            "zh": "检查电子邮件地址并验证其是否有效"
+          }
+        },
+        {
+          "name": "VoilaNorbert",
+          "link": "https://www.voilanorbert.com/",
+          "desc": {
+            "en": "I can find anyone's email address",
+            "zh": "我可以找到任何人的电子邮件地址"
+          }
+        },
+        {
+          "name": "SynapsInt",
+          "link": "https://synapsint.com/",
+          "desc": {
+            "en": "The unified OSINT research tool",
+            "zh": "统一的 OSINT 研究工具"
+          }
+        },
+        {
+          "name": "skymem.info",
+          "link": "http://www.skymem.info/",
+          "desc": {
+            "en": "Find email addresses of companies and people",
+            "zh": "找到公司和人员的电子邮件地址"
+          }
+        },
+        {
+          "name": "findemails.com",
+          "link": "https://www.findemails.com/",
+          "desc": {
+            "en": "Find Anyone's Email Address in Seconds",
+            "zh": "几秒钟内找到任何人的电子邮件地址"
+          }
+        },
+        {
+          "name": "Experte email finder",
+          "link": "https://www.experte.com/email-finder",
+          "desc": {
+            "en": "Find the right email address, even if you only know the name and the company",
+            "zh": "即使只知道姓名和公司，也能找到正确的电子邮件地址"
+          }
+        },
+        {
+          "name": "EmailSherlock",
+          "link": "https://www.emailsherlock.com/",
+          "desc": {
+            "en": "Search for the Person behind the Email address and find our reputation score",
+            "zh": "搜索电子邮件地址背后的人并找到我们的声誉评分"
+          }
+        },
+        {
+          "name": "Anymail Finder",
+          "link": "https://anymailfinder.com/",
+          "desc": {
+            "en": "Find verified emails",
+            "zh": "查找已验证的电子邮件"
+          }
+        },
+        {
+          "name": "Tomba.io",
+          "link": "https://tomba.io/",
+          "desc": {
+            "en": "With 430+ million email addresses indexed, effective search filters, and deliverability checks, Tomba's email finder is its most powerful tool",
+            "zh": "通过拥有超过 4.3 亿个索引电子邮件地址、有效的搜索过滤器和可交付性检查，Tomba 的电子邮件查找器是最强大的工具"
+          }
+        },
+        {
+          "name": "Snov Email Finder",
+          "link": "https://snov.io/email-finder",
+          "desc": {
+            "en": "Find any email. Anywhere",
+            "zh": "找到任何地方的任何电子邮件。"
+          }
+        },
+        {
+          "name": "EmailSearch.io",
+          "link": "https://emailsearch.io/",
+          "desc": {
+            "en": "Find any emails and phones from a domain, Linkedin, name, and company",
+            "zh": "从域、LinkedIn、姓名和公司中找到任何电子邮件和电话号码"
+          }
+        },
+        {
+          "name": "Email Permutator+",
+          "link": "http://metricsparrow.com/toolkit/email-permutator/#",
+          "desc": {
+            "en": "Find potential email addresses permutating different combinations",
+            "zh": "通过排列组合找到潜在的电子邮件地址"
+          }
+        },
+        {
+          "name": "Emailrep.io",
+          "link": "https://emailrep.io/",
+          "desc": {
+            "en": "Simple Email Reputation",
+            "zh": "简单的电子邮件声誉"
+          }
+        },
+        {
+          "name": "Mailboxvalidator",
+          "link": "https://www.mailboxvalidator.com/",
+          "desc": {
+            "en": "Secure and reliable email validation service to check for invalid email addresses",
+            "zh": "可用于检查无效电子邮件地址的安全可靠的电子邮件验证服务"
+          }
+        },
+        {
+          "name": "ContactOut",
+          "link": "https://contactout.com/",
+          "desc": {
+            "en": "Most accurate email finder for personal and work email outreach",
+            "zh": "可用于个人和工作电子邮件拓展的最准确的电子邮件查找器"
+          }
+        },
+        {
+          "name": "validemail.io",
+          "link": "https://validemail.io/",
+          "desc": {
+            "en": "Validate email addresses for deliverability with our Email Validation API",
+            "zh": "使用我们的电子邮件验证 API 验证电子邮件地址的可交付性"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Domains",
+        "zh": "域名"
+      },
+      "websites": [
+        {
+          "name": "PhoneBook",
+          "link": "https://phonebook.cz/",
+          "desc": {
+            "en": "Lists all domains, email addresses, or URLs for the given input domain",
+            "zh": "列出给定输入域的所有域、电子邮件地址或 URL"
+          }
+        },
+        {
+          "name": "IntelligenceX",
+          "link": "https://intelx.io/",
+          "desc": {
+            "en": "Search engine and data archive",
+            "zh": "搜索引擎和数据存档"
+          }
+        },
+        {
+          "name": "Omnisint",
+          "link": "https://omnisint.io/subdomain-enumeration",
+          "desc": {
+            "en": "Subdomain enumeration",
+            "zh": "子域枚举"
+          }
+        },
+        {
+          "name": "Riddler",
+          "link": "https://riddler.io/",
+          "desc": {
+            "en": "Allows you to search in a high quality dataset",
+            "zh": "允许您在高质量数据集中搜索"
+          }
+        },
+        {
+          "name": "RobTex",
+          "link": "https://www.robtex.com/",
+          "desc": {
+            "en": "Various kinds of research of IP numbers, Domain names, etc",
+            "zh": "各种 IP 号码、域名等的研究"
+          }
+        },
+        {
+          "name": "CentralOps - DomainDossier",
+          "link": "https://centralops.net/co/DomainDossier.aspx",
+          "desc": {
+            "en": "Investigate domains and IP addresses",
+            "zh": "调查域和 IP 地址"
+          }
+        },
+        {
+          "name": "DomainIQ",
+          "link": "https://www.domainiq.com/",
+          "desc": {
+            "en": "Comprehensive Domain Intelligence",
+            "zh": "全面的域名情报"
+          }
+        },
+        {
+          "name": "whois.domaintools.com",
+          "link": "https://whois.domaintools.com/",
+          "desc": {
+            "en": "Industry’s fastest domain discovery engine and broadest, most accurate data",
+            "zh": "行业最快的域发现引擎和最广泛、最准确的数据"
+          }
+        },
+        {
+          "name": "grayhatwarfare.com - domains",
+          "link": "https://shorteners.grayhatwarfare.com/domains",
+          "desc": {
+            "en": "How to search URLs exposed by Shortener services",
+            "zh": "如何搜索网址缩短服务暴露的 URL"
+          }
+        },
+        {
+          "name": "whoisology.com",
+          "link": "https://whoisology.com/",
+          "desc": {
+            "en": "Deep Connections Between Domain Names & Their Owners",
+            "zh": "域名与其所有者之间的深层联系"
+          }
+        },
+        {
+          "name": "who.is",
+          "link": "https://who.is/",
+          "desc": {
+            "en": "WHOIS Search, Domain Name, Website, and IP Tools",
+            "zh": "WHOIS 搜索、域名、网站和 IP 工具"
+          }
+        },
+        {
+          "name": "pentest-tools.com",
+          "link": "https://pentest-tools.com/information-gathering/find-subdomains-of-domain",
+          "desc": {
+            "en": "Discover subdomains and determine the attack surface of an organization",
+            "zh": "发现子域并确定某个组织的攻击面"
+          }
+        },
+        {
+          "name": "BuiltWith",
+          "link": "https://builtwith.com/",
+          "desc": {
+            "en": "Find out what websites are Built With",
+            "zh": "查找网站构建的技术"
+          }
+        },
+        {
+          "name": "MoonSearch",
+          "link": "http://moonsearch.com/",
+          "desc": {
+            "en": "Backlinks checker & SEO Report",
+            "zh": "反向链接检查器和 SEO 报告"
+          }
+        },
+        {
+          "name": "sitereport.netcraft.com",
+          "link": "https://sitereport.netcraft.com/",
+          "desc": {
+            "en": "Find out the infrastructure and technologies used by any site",
+            "zh": "查找任何站点使用的基础设施和技术"
+          }
+        },
+        {
+          "name": "SynapsInt",
+          "link": "https://synapsint.com/",
+          "desc": {
+            "en": "The unified OSINT research tool",
+            "zh": "统一的 OSINT 研究工具"
+          }
+        },
+        {
+          "name": "statscrop.com",
+          "link": "https://www.statscrop.com/",
+          "desc": {
+            "en": "Millions of amazing websites across the web are being analyzed with StatsCrop",
+            "zh": "使用 StatsCrop 分析了网络上数百万惊人的网站"
+          }
+        },
+        {
+          "name": "securityheaders.com",
+          "link": "https://securityheaders.com/",
+          "desc": {
+            "en": "Scan your site now",
+            "zh": "立即扫描您的网站"
+          }
+        },
+        {
+          "name": "visualsitemapper.com",
+          "link": "http://www.visualsitemapper.com/",
+          "desc": {
+            "en": "Create a visual map of your site",
+            "zh": "创建您网站的可视化地图"
+          }
+        },
+        {
+          "name": "similarweb.com",
+          "link": "https://www.similarweb.com/",
+          "desc": {
+            "en": "The easiest and fastest tool to find out what's really going on online",
+            "zh": "查找在线发生的真实情况的最简单、最快的工具"
+          }
+        },
+        {
+          "name": "buckets.grayhatwarfare.com",
+          "link": "https://buckets.grayhatwarfare.com/",
+          "desc": {
+            "en": "Public buckets",
+            "zh": "公共存储桶"
+          }
+        },
+        {
+          "name": "C99.nl",
+          "link": "https://api.c99.nl/",
+          "desc": {
+            "en": "Over 57 quality API's and growing!",
+            "zh": "超过 57 个优质 API ，并在不断增长中！"
+          }
+        },
+        {
+          "name": "wannabe1337.xyz",
+          "link": "https://wannabe1337.xyz/",
+          "desc": {
+            "en": "Online Tools",
+            "zh": "在线工具"
+          }
+        },
+        {
+          "name": "subdomainfinder.c99.nl",
+          "link": "https://subdomainfinder.c99.nl/",
+          "desc": {
+            "en": "Scanner that scans an entire domain to find as many subdomains as possible",
+            "zh": "扫描整个域以找到尽可能多子域的扫描器"
+          }
+        },
+        {
+          "name": "AnubisDB",
+          "link": "https://jonlu.ca/anubis/",
+          "desc": {
+            "en": "Subdomain enumeration and information gathering tool",
+            "zh": "子域枚举和信息收集工具"
+          }
+        },
+        {
+          "name": "HypeStat",
+          "link": "https://hypestat.com/",
+          "desc": {
+            "en": "Free statistics and analytics service, where you can find information about every website",
+            "zh": "免费的统计和分析服务，您可以找到有关每个网站的信息"
+          }
+        },
+        {
+          "name": "Private Key Project",
+          "link": "https://www.pkey.in/tools-i/search-subdomains",
+          "desc": {
+            "en": "Information security tools from Private Key Project",
+            "zh": "来自私人密钥项目的信息安全工具"
+          }
+        },
+        {
+          "name": "SiteDossier",
+          "link": "http://www.sitedossier.com/",
+          "desc": {
+            "en": "Profiles for millions of sites on the web",
+            "zh": "网络上数百万网站的配置文件"
+          }
+        },
+        {
+          "name": "SpyOnWeb",
+          "link": "https://spyonweb.com/",
+          "desc": {
+            "en": "Quick and convenient search for the websites that probably belong to the same owner",
+            "zh": "快速便捷地搜索可能属于同一所有者的网站"
+          }
+        },
+        {
+          "name": "HaveIBeenSquatted",
+          "link": "https://www.haveibeensquatted.com/",
+          "desc": {
+            "en": "Check if a domain has been typosquatted",
+            "zh": "检查域名是否被仿冒"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "URLs",
+        "zh": "URL"
+      },
+      "websites": [
+        {
+          "name": "PhoneBook",
+          "link": "https://phonebook.cz/",
+          "desc": {
+            "en": "Lists all domains, email addresses, or URLs for the given input domain",
+            "zh": "列出给定输入域的所有域、电子邮件地址或 URL"
+          }
+        },
+        {
+          "name": "IntelligenceX",
+          "link": "https://intelx.io/",
+          "desc": {
+            "en": "Search engine and data archive",
+            "zh": "搜索引擎和数据存档"
+          }
+        },
+        {
+          "name": "URLScan",
+          "link": "https://urlscan.io/",
+          "desc": {
+            "en": "A sandbox for the web",
+            "zh": "网页沙盒"
+          }
+        },
+        {
+          "name": "HackerTarget",
+          "link": "https://hackertarget.com/ip-tools/",
+          "desc": {
+            "en": "Collect information about IP Addresses, Networks, Web Pages and DNS records",
+            "zh": "收集关于 IP 地址、网络、网页和 DNS 记录的信息"
+          }
+        },
+        {
+          "name": "MOZ Link Explorer",
+          "link": "https://moz.com/link-explorer",
+          "desc": {
+            "en": "The world's best backlink checker with over 40 trillion links",
+            "zh": "拥有超过 40 万亿个链接的世界上最好的反向链接检查器"
+          }
+        },
+        {
+          "name": "shorteners.grayhatwarfare.com",
+          "link": "https://shorteners.grayhatwarfare.com/",
+          "desc": {
+            "en": "Search URLs exposed by Shortener services",
+            "zh": "搜索网址缩短服务暴露的 URL"
+          }
+        },
+        {
+          "name": "CommonCrawl Index",
+          "link": "http://index.commoncrawl.org/",
+          "desc": {
+            "en": "Open repository of web crawl data",
+            "zh": "网络爬取数据的开放代码仓库"
+          }
+        },
+        {
+          "name": "URLVoid",
+          "link": "https://www.urlvoid.com/",
+          "desc": {
+            "en": "Check the online reputation/safety of a website",
+            "zh": "检查网站的在线声誉/安全性"
+          }
+        },
+        {
+          "name": "Norton SafeWeb",
+          "link": "https://safeweb.norton.com/",
+          "desc": {
+            "en": "Look up a site, Get our rating",
+            "zh": "查询网站，获取我们的评分"
+          }
+        },
+        {
+          "name": "CheckPhish",
+          "link": "https://checkphish.bolster.ai/",
+          "desc": {
+            "en": "Real-time URL and website scanner",
+            "zh": "实时 URL 和网站扫描器"
+          }
+        },
+        {
+          "name": "web-check.xyz",
+          "link": "https://web-check.xyz/",
+          "desc": {
+            "en": "All-in-one OSINT tool, for quickly checking a websites data",
+            "zh": "一体化的 OSINT 工具，快速检查网站数据"
+          }
+        },
+        {
+          "name": "TinyScan",
+          "link": "https://www.tiny-scan.com/",
+          "desc": {
+            "en": "Effortlessly Dive into URL Details",
+            "zh": "轻松地深入了解 URL 详情"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "DNS",
+        "zh": "DNS"
+      },
+      "websites": [
+        {
+          "name": "DNSDumpster",
+          "link": "https://dnsdumpster.com/",
+          "desc": {
+            "en": "DNS recon & research, find & lookup dns records",
+            "zh": "DNS 侦察与研究，查找和查询 DNS 记录"
+          }
+        },
+        {
+          "name": "Chaos",
+          "link": "https://chaos.projectdiscovery.io/#/",
+          "desc": {
+            "en": "Enhance research and analyse changes around DNS for better insights",
+            "zh": "加强研究并分析 DNS 的变更以获得更好的洞察力"
+          }
+        },
+        {
+          "name": "RapidDNS",
+          "link": "https://rapiddns.io/",
+          "desc": {
+            "en": "DNS query tool which make querying subdomains or sites of a same ip easy",
+            "zh": "DNS 查询工具，使查询子域或相同 IP 的站点变得容易"
+          }
+        },
+        {
+          "name": "DNSdb",
+          "link": "https://docs.farsightsecurity.com/#dnsdb",
+          "desc": {
+            "en": "Passive DNS historical database",
+            "zh": "被动 DNS 历史数据库"
+          }
+        },
+        {
+          "name": "Omnisint",
+          "link": "https://omnisint.io/reverse-dns-lookup",
+          "desc": {
+            "en": "Reverse DNS lookup",
+            "zh": "反向 DNS 查找"
+          }
+        },
+        {
+          "name": "HackerTarget",
+          "link": "https://hackertarget.com/ip-tools/",
+          "desc": {
+            "en": "Collect information about IP Addresses, Networks, Web Pages and DNS records",
+            "zh": "收集关于 IP 地址、网络、网页和 DNS 记录的信息"
+          }
+        },
+        {
+          "name": "passivedns.mnemonic.no",
+          "link": "https://passivedns.mnemonic.no/",
+          "desc": {
+            "en": "Web interface for querying passive DNS data collected in our malware lab",
+            "zh": "用于查询恶意软件实验室收集的被动 DNS 数据的 Web 接口"
+          }
+        },
+        {
+          "name": "ptrarchive.com",
+          "link": "http://ptrarchive.com/",
+          "desc": {
+            "en": "Over 230 billion reverse DNS entries from 2008 to the present",
+            "zh": "自 2008 年以来超过 2300 亿个逆向 DNS 条目"
+          }
+        },
+        {
+          "name": "dnshistory.org",
+          "link": "http://dnshistory.org/",
+          "desc": {
+            "en": "Domain Name System Historical Record Archive",
+            "zh": "域名系统历史记录存档"
+          }
+        },
+        {
+          "name": "DNSTwister",
+          "link": "https://dnstwister.report/",
+          "desc": {
+            "en": "The anti-phishing domain name search engine and DNS monitoring service",
+            "zh": "反钓鱼域名搜索引擎和 DNS 监控服务"
+          }
+        },
+        {
+          "name": "DNSviz",
+          "link": "https://dnsviz.net/",
+          "desc": {
+            "en": "Tool for visualizing the status of a DNS zone",
+            "zh": "可视化 DNS 区域状态的工具"
+          }
+        },
+        {
+          "name": "C99.nl",
+          "link": "https://api.c99.nl/",
+          "desc": {
+            "en": "Over 57 quality API's and growing",
+            "zh": "超过 57 个优质 API ，并在不断增长中！"
+          }
+        },
+        {
+          "name": "wannabe1337.xyz",
+          "link": "https://wannabe1337.xyz/",
+          "desc": {
+            "en": "Online Tools",
+            "zh": "在线工具"
+          }
+        },
+        {
+          "name": "DNSlytics",
+          "link": "https://dnslytics.com/",
+          "desc": {
+            "en": "Find out everything about a domain name, IP address or provider",
+            "zh": "查找有关域名、IP 地址或提供商的所有信息"
+          }
+        },
+        {
+          "name": "dnsrepo.noc.org",
+          "link": "https://dnsrepo.noc.org/",
+          "desc": {
+            "en": "DNS Database Repository Search",
+            "zh": "DNS 数据库仓库搜索"
+          }
+        },
+        {
+          "name": "DNSSpy",
+          "link": "https://dnsspy.io/",
+          "desc": {
+            "en": "Monitor, validate and verify your DNS configurations",
+            "zh": "监控、验证和验证您的 DNS 配置"
+          }
+        },
+        {
+          "name": "ZETAlytics",
+          "link": "https://zetalytics.com/",
+          "desc": {
+            "en": "We offer unrivalled geographic diversity and exclusive global network visibility in searchable datasets for use by cyber security analysts",
+            "zh": "我们为网络安全分析师提供无与伦比的地理多样性和独家的全球网络可见性，可在可搜索数据集中使用"
+          }
+        },
+        {
+          "name": "AskDNS",
+          "link": "https://askdns.com/",
+          "desc": {
+            "en": "Lookup Connected Domain Names and IP Addresses",
+            "zh": "查找连接的域名和 IP 地址"
+          }
+        },
+        {
+          "name": "360 PassiveDNS.CN",
+          "link": "https://passivedns.cn/",
+          "desc": {
+            "en": "Biggest public available db in China designed for security and research purpose",
+            "zh": "中国最大的公开数据库，专为安全和研究目的而设计"
+          }
+        },
+        {
+          "name": "MXtoolbox",
+          "link": "https://mxtoolbox.com/SuperTool.aspx",
+          "desc": {
+            "en": "All of your MX record, DNS, blacklist and SMTP diagnostics in one integrated tool",
+            "zh": "您的 MX 记录、DNS、黑名单和 SMTP 诊断的集成工具"
+          }
+        },
+        {
+          "name": "NSLookup.io",
+          "link": "https://www.nslookup.io/",
+          "desc": {
+            "en": "Find all DNS records for a domain name using this online tool",
+            "zh": "使用此在线工具查找域名的所有 DNS 记录"
+          }
+        },
+        {
+          "name": "Robtex DNS Lookup",
+          "link": "https://www.robtex.com/dns-lookup/",
+          "desc": {
+            "en": "Get detailed information on the nameservers associated with a domain name",
+            "zh": "获取与域名关联的名称服务器的详细信息"
+          }
+        },
+        {
+          "name": "DNSMap",
+          "link": "https://dnsmap.io/",
+          "desc": {
+            "en": "Worldwide DNS Propagation Checker",
+            "zh": "全球 DNS 传播检查器"
+          }
+        },
+        {
+          "name": "Validin",
+          "link": "https://app.validin.com/",
+          "desc": {
+            "en": "Massive collection of DNS records with free DNS history search",
+            "zh": "包含大量 DNS 记录的收获列表，提供免费的 DNS 历史搜索"
+          }
+        },
+        {
+          "name": "dnslookup.pro",
+          "link": "https://dnslookup.pro/",
+          "desc": {
+            "en": "Advanced DNS Record Analysis & Troubleshooting",
+            "zh": "高级 DNS 记录分析与故障排除"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Certificates",
+        "zh": "证书"
+      },
+      "websites": [
+        {
+          "name": "Crt.sh",
+          "link": "https://crt.sh/",
+          "desc": {
+            "en": "Certificate Search",
+            "zh": "证书搜索"
+          }
+        },
+        {
+          "name": "CTSearch",
+          "link": "https://ui.ctsearch.entrust.com/ui/ctsearchui",
+          "desc": {
+            "en": "Certificate Transparency Search Tool",
+            "zh": "证书透明度搜索工具"
+          }
+        },
+        {
+          "name": "tls.bufferover.run",
+          "link": "https://tls.bufferover.run/",
+          "desc": {
+            "en": "Quickly find certificates in IPv4 space",
+            "zh": "快速查找 IPv4 空间中的证书"
+          }
+        },
+        {
+          "name": "CertSpotter",
+          "link": "https://sslmate.com/certspotter/",
+          "desc": {
+            "en": "Monitors your domains for expiring, unauthorized, and invalid SSL certificates",
+            "zh": "监控您的域名以查找过期、未经授权和无效的 SSL 证书"
+          }
+        },
+        {
+          "name": "SynapsInt",
+          "link": "https://synapsint.com/",
+          "desc": {
+            "en": "The unified OSINT research tool",
+            "zh": "统一的 OSINT 研究工具"
+          }
+        },
+        {
+          "name": "Censys Search - Certificates",
+          "link": "https://search.censys.io/certificates",
+          "desc": {
+            "en": "Certificates Search",
+            "zh": "证书搜索"
+          }
+        },
+        {
+          "name": "ciphersuite.info",
+          "link": "https://ciphersuite.info/",
+          "desc": {
+            "en": "TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format",
+            "zh": "TLS 密码套件搜索。使用 IANA、OpenSSL 或 GnuTLS 名称格式搜索特定密码套件"
+          }
+        },
+        {
+          "name": "certificatedetails",
+          "link": "https://certificatedetails.com/",
+          "desc": {
+            "en": "Online certificate viewer. Inspect and download certificates from your browser",
+            "zh": "在线证书查看器。从浏览器中检查并下载证书"
+          }
+        },
+        {
+          "name": "FacebookCT",
+          "link": "https://developers.facebook.com/tools/ct/search/",
+          "desc": {
+            "en": "Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates",
+            "zh": "搜索为特定域名颁发的证书，并订阅 Facebook 关于新证书的通知"
+          }
+        },
+        {
+          "name": "certs.io",
+          "link": "https://certs.io/",
+          "desc": {
+            "en": "Search TLS certificates across the internet.",
+            "zh": "在整个互联网上搜索 TLS 证书。"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "WiFi Networks",
+        "zh": "WiFi 网络"
+      },
+      "websites": [
+        {
+          "name": "Wigle.net",
+          "link": "https://wigle.net/",
+          "desc": {
+            "en": "Maps and database of 802.11 wireless networks with statistics",
+            "zh": "802.11 无线网络的地图和数据库，并附带统计信息"
+          }
+        },
+        {
+          "name": "wifimap.io",
+          "link": "https://www.wifimap.io/",
+          "desc": {
+            "en": "Connect to all Free WiFi Hotspots using WiFi Map App all over the World!",
+            "zh": "使用 WiFi Map App 连接全球所有免费 WiFi 热点！"
+          }
+        },
+        {
+          "name": "wificafespots.com",
+          "link": "http://www.wificafespots.com/",
+          "desc": {
+            "en": "Free WiFi Cafe Spots",
+            "zh": "免费 WiFi 咖啡馆热点"
+          }
+        },
+        {
+          "name": "wifispc.com",
+          "link": "https://wifispc.com/",
+          "desc": {
+            "en": "Free map of Wi-Fi passwords anywhere you go!",
+            "zh": "无论您走到哪里，都能免费获取 Wi-Fi 密码地图！"
+          }
+        },
+        {
+          "name": "openwifimap.net",
+          "link": "https://openwifimap.net/",
+          "desc": {
+            "en": "HTML5 map with OpenWiFiMap data",
+            "zh": "具有 OpenWiFiMap 数据的 HTML5 地图"
+          }
+        },
+        {
+          "name": "mylnikov.org",
+          "link": "https://www.mylnikov.org/",
+          "desc": {
+            "en": "Public API implementation of Wi-Fi Geo-Location database",
+            "zh": "Wi-Fi 地理定位数据库的公共 API 实现"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Device Information",
+        "zh": "设备信息"
+      },
+      "websites": [
+        {
+          "name": "MACVendorLookup.com",
+          "link": "https://www.macvendorlookup.com/",
+          "desc": {
+            "en": "Look up the vendor for a specific MAC Address",
+            "zh": "查找特定 MAC 地址的供应商"
+          }
+        },
+        {
+          "name": "macvendors.com",
+          "link": "https://macvendors.com/",
+          "desc": {
+            "en": "Find MAC Address Vendors. Now",
+            "zh": "即刻查找 MAC 地址供应商"
+          }
+        },
+        {
+          "name": "macaddress.io",
+          "link": "https://macaddress.io/",
+          "desc": {
+            "en": "MAC address vendor lookup",
+            "zh": "MAC 地址供应商查找"
+          }
+        },
+        {
+          "name": "maclookup.app",
+          "link": "https://maclookup.app/",
+          "desc": {
+            "en": "Find the vendor name of a device by entering an OUI or a MAC address",
+            "zh": "通过输入 OUI 或 MAC 地址，查找设备的供应商名称"
+          }
+        },
+        {
+          "name": "macvendors.co",
+          "link": "https://macvendors.co/",
+          "desc": {
+            "en": "Get vendor name of your network device using its mac address",
+            "zh": "使用 MAC 地址获取您网络设备的供应商名称"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Credentials",
+        "zh": "凭证"
+      },
+      "websites": [
+        {
+          "name": "Have I Been Pwned",
+          "link": "https://haveibeenpwned.com/",
+          "desc": {
+            "en": "Check if your email or phone is in a data breach",
+            "zh": "检查您的电子邮件或电话是否在数据泄露中"
+          }
+        },
+        {
+          "name": "Dehashed",
+          "link": "https://www.dehashed.com/",
+          "desc": {
+            "en": "Free deep-web scans and protection against credential leaks",
+            "zh": "免费的深网扫描和防护，以防凭证泄露"
+          }
+        },
+        {
+          "name": "LeakCheck.io",
+          "link": "https://leakcheck.io/",
+          "desc": {
+            "en": "Make sure your credentials haven't been compromised",
+            "zh": "确保您的凭证尚未泄露"
+          }
+        },
+        {
+          "name": "crackstation.net",
+          "link": "https://crackstation.net/",
+          "desc": {
+            "en": "Massive pre-computed lookup tables to crack password hashes",
+            "zh": "大量用于破解密码哈希的预计算查找表"
+          }
+        },
+        {
+          "name": "HashKiller",
+          "link": "https://hashkiller.io/listmanager",
+          "desc": {
+            "en": "Pre-cracked Hashes, easily searchable",
+            "zh": "预破解的哈希，易于搜索"
+          }
+        },
+        {
+          "name": "LeakedPassword",
+          "link": "https://leakedpassword.com/",
+          "desc": {
+            "en": "Search across multiple data breaches to see if your pass has been compromised",
+            "zh": "在多个数据泄露中搜索，看看您的密码是否已被泄露"
+          }
+        },
+        {
+          "name": "BugMeNot",
+          "link": "https://bugmenot.com/",
+          "desc": {
+            "en": "Find and share logins",
+            "zh": "查找并分享登录信息"
+          }
+        },
+        {
+          "name": "Hashes.com",
+          "link": "https://hashes.com/en/decrypt/hash",
+          "desc": {
+            "en": "Decrypt and crack your MD5, SHA1, SHA256, MySQL, MD5 Email, SHA256 Email, and NTLM hashes for free online",
+            "zh": "免费在线解密和破解您的 MD5、SHA1、SHA256、MySQL、MD5 电子邮件、SHA256 电子邮件和 NTLM 哈希"
+          }
+        },
+        {
+          "name": "Hashmob",
+          "link": "https://hashmob.net/search",
+          "desc": {
+            "en": "The Largest Password Recovery Community",
+            "zh": "最大的密码恢复社区"
+          }
+        },
+        {
+          "name": "WhiteIntel",
+          "link": "https://whiteintel.io/",
+          "desc": {
+            "en": "Check if a company or its customers was victim of an information stealer malware",
+            "zh": "检查公司或其客户是否成为信息窃取恶意软件的受害者"
+          }
+        },
+        {
+          "name": "ntlm.pw",
+          "link": "https://ntlm.pw/",
+          "desc": {
+            "en": "Instantly look up NTLM hashes and resolve them to plaintext passwords using our database with 8B+ entries",
+            "zh": "使用我们的数据库，其中包含超过 80 亿个条目，即时查找 NTLM 哈希并将其解析为明文密码"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Leaks",
+        "zh": "泄露"
+      },
+      "websites": [
+        {
+          "name": "WikiLeaks",
+          "link": "https://wikileaks.org/",
+          "desc": {
+            "en": "News leaks and classified media provided by anonymous sources",
+            "zh": "由匿名来源提供的新闻泄露和机密媒体"
+          }
+        },
+        {
+          "name": "Leak-Lookup",
+          "link": "https://leak-lookup.com/",
+          "desc": {
+            "en": "Search across thousands of data breaches",
+            "zh": "在数千次数据泄露中搜索"
+          }
+        },
+        {
+          "name": "Snusbase",
+          "link": "https://snusbase.com/",
+          "desc": {
+            "en": "Stay on top of the latest database breaches",
+            "zh": "紧跟最新的数据库泄露"
+          }
+        },
+        {
+          "name": "breachdirectory.org",
+          "link": "https://breachdirectory.org/",
+          "desc": {
+            "en": "Check if your information was exposed in a data breach",
+            "zh": "检查您的信息是否在数据泄露中暴露"
+          }
+        },
+        {
+          "name": "BreachForums",
+          "link": "https://breached.to/",
+          "desc": {
+            "en": "Breaches, Data leaks, databases and more",
+            "zh": "违规、数据泄露、数据库等"
+          }
+        },
+        {
+          "name": "Siph0n Breach DB (onionsite)",
+          "link": "siphondkh34l5vki.onion/",
+          "desc": {
+            "en": "Breaches, Data leaks, Exploits",
+            "zh": "泄漏、数据泄露、漏洞利用"
+          }
+        },
+        {
+          "name": "Exposed Forum",
+          "link": "https://exposed.vc/",
+          "desc": {
+            "en": "The premier Databreach discussion & leaks forum",
+            "zh": "最重要的数据泄漏讨论和泄露论坛"
+          }
+        },
+        {
+          "name": "Distributed Denial of Secrets",
+          "link": "https://ddosecrets.com/",
+          "desc": {
+            "en": "qr devoted to publishing and archiving leaks",
+            "zh": "致力于发布和归档泄露的记者 501(c)(3)非营利组织"
+          }
+        },
+        {
+          "name": "Have I Been Zuckered",
+          "link": "https://haveibeenzuckered.com/",
+          "desc": {
+            "en": "Facebook Data Breach Checker",
+            "zh": "Facebook 数据泄露检查器"
+          }
+        },
+        {
+          "name": "Cryptome",
+          "link": "https://cryptome.org/",
+          "desc": {
+            "en": "Documents for publication that are prohibited by governments worldwide",
+            "zh": "全球政府禁止发布的文件"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Hidden Services",
+        "zh": "隐藏服务"
+      },
+      "websites": [
+        {
+          "name": "AHMIA",
+          "link": "https://ahmia.fi/",
+          "desc": {
+            "en": "Search hidden services on the Tor network",
+            "zh": "在 Tor 网络上搜索隐藏服务"
+          }
+        },
+        {
+          "name": "thehiddenwiki.org",
+          "link": "https://thehiddenwiki.org/",
+          "desc": {
+            "en": "The darknet guide",
+            "zh": "暗网指南"
+          }
+        },
+        {
+          "name": "tor.link",
+          "link": "https://tor.link/",
+          "desc": {
+            "en": "Free anonymous deepweb / Darknet search engine",
+            "zh": "免费的匿名深网/暗网搜索引擎"
+          }
+        },
+        {
+          "name": "deepweblinks.net",
+          "link": "https://deepweblinks.net/",
+          "desc": {
+            "en": "Onion Links",
+            "zh": "洋葱链接"
+          }
+        },
+        {
+          "name": "onionengine.com",
+          "link": "https://onionengine.com/",
+          "desc": {
+            "en": "A search engine for services accessible on the Tor network",
+            "zh": "用于访问 Tor 网络上服务的搜索引擎"
+          }
+        },
+        {
+          "name": "OnionLand",
+          "link": "https://onionlandsearchengine.com/",
+          "desc": {
+            "en": "Discover Hidden Services and access to Tor's onion sites",
+            "zh": "发现隐藏服务并访问 Tor 的洋葱站点"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Social Networks",
+        "zh": "社交网络"
+      },
+      "websites": [
+        {
+          "name": "Facebook",
+          "link": "https://www.facebook.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "YouTube",
+          "link": "https://www.youtube.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Twitter/X",
+          "link": "https://twitter.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "LinkedIn",
+          "link": "https://www.linkedin.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Reddit",
+          "link": "https://new.reddit.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Pinterest",
+          "link": "https://www.pinterest.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Tumblr",
+          "link": "https://www.tumblr.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Flickr",
+          "link": "https://www.flickr.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "SnapChat",
+          "link": "https://www.snapchat.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Whatsapp",
+          "link": "https://www.whatsapp.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Quora",
+          "link": "https://www.quora.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "TikTok",
+          "link": "https://www.tiktok.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Vimeo",
+          "link": "https://vimeo.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Medium",
+          "link": "https://medium.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "WeChat",
+          "link": "https://www.wechat.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "VK",
+          "link": "https://vk.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Weibo",
+          "link": "https://weibo.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Tinder",
+          "link": "https://tinder.com/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "Threads",
+          "link": "https://www.threads.net/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Phone Numbers",
+        "zh": "电话号码"
+      },
+      "websites": [
+        {
+          "name": "NumLookup",
+          "link": "https://www.numlookup.com/",
+          "desc": {
+            "en": "Free reverse phone lookup",
+            "zh": "免费的电话号码反查"
+          }
+        },
+        {
+          "name": "SpyDialer",
+          "link": "https://spydialer.com/",
+          "desc": {
+            "en": "Free Reverse Lookup Search",
+            "zh": "免费的反查查询搜索"
+          }
+        },
+        {
+          "name": "WhitePages",
+          "link": "https://www.whitepages.com/",
+          "desc": {
+            "en": "Find people, contact info & background checks",
+            "zh": "查找人员、联系信息和背景调查"
+          }
+        },
+        {
+          "name": "National Cellular Directory",
+          "link": "https://www.nationalcellulardirectory.com/",
+          "desc": {
+            "en": "Begin your comprehensive people search now",
+            "zh": "现在开始进行全面人员搜索"
+          }
+        },
+        {
+          "name": "Phone Validator",
+          "link": "https://www.phonevalidator.com/",
+          "desc": {
+            "en": "Is it a cell phone or is it a landline or is it a fake?",
+            "zh": "这是手机，固定电话，还是假电话？"
+          }
+        },
+        {
+          "name": "Free Carrier Lookup",
+          "link": "https://freecarrierlookup.com/",
+          "desc": {
+            "en": "Enter a phone number and we'll return the carrier name",
+            "zh": "输入电话号码，我们将返回运营商名称"
+          }
+        },
+        {
+          "name": "RocketReach",
+          "link": "https://rocketreach.co/",
+          "desc": {
+            "en": "Your first-degree connection to any professional",
+            "zh": "与任何专业人士的第一度联系"
+          }
+        },
+        {
+          "name": "sync.me",
+          "link": "https://sync.me/",
+          "desc": {
+            "en": "Find out who called",
+            "zh": "查找出打电话的人"
+          }
+        },
+        {
+          "name": "EmobileTracker",
+          "link": "https://www.emobiletracker.com/",
+          "desc": {
+            "en": "Track Mobile Owner Name, Location and Mobile Service Provider",
+            "zh": "追踪手机所有者姓名、位置和移动服务提供商"
+          }
+        },
+        {
+          "name": "Reverse Phone Lookup",
+          "link": "https://www.reversephonelookup.com/",
+          "desc": {
+            "en": "Find Out The Owner Of A Phone Number",
+            "zh": "查找出电话号码的拥有者"
+          }
+        },
+        {
+          "name": "ThatsThem",
+          "link": "https://thatsthem.com/reverse-phone-lookup",
+          "desc": {
+            "en": "Reverse phone lookup",
+            "zh": "电话号码反查"
+          }
+        },
+        {
+          "name": "thisnumber.com",
+          "link": "https://www.thisnumber.com/",
+          "desc": {
+            "en": "International Phone Directories",
+            "zh": "国际电话号码目录"
+          }
+        },
+        {
+          "name": "usphonebook.com",
+          "link": "https://www.usphonebook.com/",
+          "desc": {
+            "en": "Free Reverse Phone Number Lookup",
+            "zh": "免费的电话号码反查"
+          }
+        },
+        {
+          "name": "truepeoplesearch.com",
+          "link": "https://www.truepeoplesearch.com/#",
+          "desc": {
+            "en": "Get current address, cell phone number, email address, relatives, friends and a lot more",
+            "zh": "获取当前地址、手机号码、电子邮件地址、亲属、朋友等更多信息"
+          }
+        },
+        {
+          "name": "Tellows",
+          "link": "https://www.tellows.com/",
+          "desc": {
+            "en": "Who is calling? The phone number reverse search",
+            "zh": "谁在打电话？电话号码反查搜索"
+          }
+        },
+        {
+          "name": "SynapsInt",
+          "link": "https://synapsint.com/",
+          "desc": {
+            "en": "The unified OSINT research tool",
+            "zh": "统一的 OSINT 研究工具"
+          }
+        },
+        {
+          "name": "C99.nl",
+          "link": "https://api.c99.nl/",
+          "desc": {
+            "en": "Over 57 quality API's and growing",
+            "zh": "超过 57 个优质 API ，并在不断增长中！"
+          }
+        },
+        {
+          "name": "ValidNumber.com",
+          "link": "https://validnumber.com/",
+          "desc": {
+            "en": "Free reverse phone lookup service to let you identify a caller associated with any 10-digit phone number from the US and Canada",
+            "zh": "免费电话号码反查服务，让您识别任何来自美国和加拿大的 10 位电话号码相关的来电者"
+          }
+        },
+        {
+          "name": "CellIdFinder",
+          "link": "https://cellidfinder.com/",
+          "desc": {
+            "en": "Nonprofit project which helps you to find GSM BTS by MCC, MNC, LAC and CellID",
+            "zh": "帮助您通过 MCC，MNC，LAC 和 CellID 找到 GSM BTS 的非营利项目"
+          }
+        },
+        {
+          "name": "OldPhoneBook",
+          "link": "http://www.oldphonebook.com/",
+          "desc": {
+            "en": "Instantly search a large selection from the past 20 years of USA phone listings",
+            "zh": "即刻搜索过去 20 年的美国电话号码簿的大量选择"
+          }
+        },
+        {
+          "name": "Spokeo",
+          "link": "https://www.spokeo.com/",
+          "desc": {
+            "en": "Search by name, phone, address, or email to confidentially lookup information about people you know",
+            "zh": "按姓名、电话、地址或电子邮件搜索，以保密方式查找您认识的人的信息"
+          }
+        },
+        {
+          "name": "Intelius Phone Lookup",
+          "link": "https://www.intelius.com/reverse-phone-lookup/",
+          "desc": {
+            "en": "Look up a phone number to find owner information, carrier details, and more",
+            "zh": "查找电话号码以获取所有者信息、运营商详细信息等"
+          }
+        },
+        {
+          "name": "ZabaSearch Phone Lookup",
+          "link": "https://www.zabasearch.com/reverse-phone-lookup/",
+          "desc": {
+            "en": "Reverse Phone Lookup Tool Can Uncover Personal Information, Social Media Data, Online Activity, Photos, and More",
+            "zh": "电话号码反查工具，可以揭示个人信息、社交媒体数据、在线活动、照片等"
+          }
+        },
+        {
+          "name": "AnyWho Phone Lookup",
+          "link": "https://www.anywho.com/reverse-phone-lookup/",
+          "desc": {
+            "en": "Find out information associated with a phone number",
+            "zh": "查找出与电话号码相关的信息"
+          }
+        },
+        {
+          "name": "Radaris Phone Lookup",
+          "link": "https://radaris.com/#findPhoneH",
+          "desc": {
+            "en": "Look up any phone number to see its owner and identify who's calling or texting you",
+            "zh": "查找任何电话号码，看看其拥有者并识别谁在给您打电话或发短信"
+          }
+        },
+        {
+          "name": "Reverse Phone Lookup",
+          "link": "https://www.reversephonecheck.com/",
+          "desc": {
+            "en": "Reverse phone number lookup with millions of listings including name or address",
+            "zh": "包含数百万列表，包括姓名或地址的电话号码反查工具"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Images",
+        "zh": "图片"
+      },
+      "websites": [
+        {
+          "name": "Google Image Search",
+          "link": "https://images.google.com/",
+          "desc": {
+            "en": "The most comprehensive image search on the web",
+            "zh": "网络上最全面的图片搜索"
+          }
+        },
+        {
+          "name": "Baidu Image",
+          "link": "https://image.baidu.com/",
+          "desc": {
+            "en": "Baidu Image Search",
+            "zh": "百度图片搜索"
+          }
+        },
+        {
+          "name": "Yahoo Image",
+          "link": "https://images.search.yahoo.com/",
+          "desc": {
+            "en": "Yahoo Image Search",
+            "zh": "雅虎图片搜索"
+          }
+        },
+        {
+          "name": "Yandex Image",
+          "link": "https://www.yandex.com/images/",
+          "desc": {
+            "en": "Yandex Image Search",
+            "zh": "Yandex 图片搜索"
+          }
+        },
+        {
+          "name": "Facecheck.id",
+          "link": "https://facecheck.id/",
+          "desc": {
+            "en": "Search for people by photo and verify you are talking to the person they claim to be",
+            "zh": "通过照片搜索人员并验证您是否正在与他们声称的人交谈"
+          }
+        },
+        {
+          "name": "Bing Visual Search",
+          "link": "https://www.bing.com/visualsearch",
+          "desc": {
+            "en": "See it, search it",
+            "zh": "所见即所搜"
+          }
+        },
+        {
+          "name": "Reverse Image Search",
+          "link": "https://www.reverseimagesearch.org/",
+          "desc": {
+            "en": "Super-fast image finder that helps you find similar images online",
+            "zh": "超快速的图像查找器，帮助您找到相似的在线图像"
+          }
+        },
+        {
+          "name": "Reverse Image",
+          "link": "https://reverseimage.net/",
+          "desc": {
+            "en": "Find Where Images Appear Online",
+            "zh": "查找图像在线显示的位置"
+          }
+        },
+        {
+          "name": "Pixsy",
+          "link": "https://www.pixsy.com",
+          "desc": {
+            "en": "Find and fight image theft",
+            "zh": "查找并打击图像盗窃"
+          }
+        },
+        {
+          "name": "Pimeyes",
+          "link": "https://pimeyes.com/",
+          "desc": {
+            "en": "Face Search Engine, Reverse Image Search",
+            "zh": "面部搜索引擎，反向图像搜索"
+          }
+        },
+        {
+          "name": "Pictriev",
+          "link": "http://www.pictriev.com/",
+          "desc": {
+            "en": "Find look-alike celebrities on the web using the face recognition",
+            "zh": "使用面部识别在网上查找相似的名人"
+          }
+        },
+        {
+          "name": "Karmadecay",
+          "link": "http://karmadecay.com/",
+          "desc": {
+            "en": "Reverse image search of Reddit.com",
+            "zh": "Reddit.com 的反向图像搜索"
+          }
+        },
+        {
+          "name": "Infringement Report",
+          "link": "https://infringement.report/",
+          "desc": {
+            "en": "The web's best image copyright infringement search tool",
+            "zh": "网络上最好的图像版权侵权搜索工具"
+          }
+        },
+        {
+          "name": "Tineye",
+          "link": "https://tineye.com/",
+          "desc": {
+            "en": "Image search and recognition company",
+            "zh": "图像搜索和识别公司"
+          }
+        },
+        {
+          "name": "Flickr",
+          "link": "https://flickr.com/search/",
+          "desc": {
+            "en": "Home to tens of billions of photos and 2 million groups",
+            "zh": "数十亿照片和 200 万个群组的家园"
+          }
+        },
+        {
+          "name": "Sogou",
+          "link": "https://pic.sogou.com/",
+          "desc": {
+            "en": "Chinese technology company that offers a search engine",
+            "zh": "提供搜索引擎的中国科技公司"
+          }
+        },
+        {
+          "name": "Jimpl",
+          "link": "https://jimpl.com/",
+          "desc": {
+            "en": "Online photo metadata and EXIF data viewer",
+            "zh": "在线照片元数据和 EXIF 数据查看器"
+          }
+        },
+        {
+          "name": "Same Energy",
+          "link": "https://same.energy/",
+          "desc": {
+            "en": "Find beautiful images",
+            "zh": "查找美丽的图像"
+          }
+        },
+        {
+          "name": "Pixabay",
+          "link": "https://pixabay.com/",
+          "desc": {
+            "en": "Stunning royalty-free images & royalty-free stock",
+            "zh": "令人惊叹的版税图片和版税库存"
+          }
+        },
+        {
+          "name": "FotoForensics",
+          "link": "https://fotoforensics.com/",
+          "desc": {
+            "en": "Tools and training for digital picture analysis, including error level analysis, metadata, and tutorials",
+            "zh": "用于数字图片分析的工具和培训，包括错误级别分析、元数据和教程"
+          }
+        },
+        {
+          "name": "Exif data",
+          "link": "http://exifdata.com/",
+          "desc": {
+            "en": "Online application that lets you take a deeper look at your favorite images",
+            "zh": "在线应用程序，让您更深入地了解您喜爱的图像"
+          }
+        },
+        {
+          "name": "Image Identify",
+          "link": "https://www.imageidentify.com/",
+          "desc": {
+            "en": "Image recognition site, just drag your image & identify",
+            "zh": "图像识别网站，只需拖动您的图像即可识别"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Threat Intelligence",
+        "zh": "威胁情报"
+      },
+      "websites": [
+        {
+          "name": "MITRE ATT&CK",
+          "link": "https://attack.mitre.org/",
+          "desc": {
+            "en": "Globally-accessible knowledge base of adversary tactics and techniques",
+            "zh": "敌对方战术和技术的全球可访问知识库"
+          }
+        },
+        {
+          "name": "PulseDive",
+          "link": "https://pulsedive.com/",
+          "desc": {
+            "en": "Threat intelligence made easy",
+            "zh": "简化威胁情报"
+          }
+        },
+        {
+          "name": "ThreatCrowd",
+          "link": "https://threatcrowd.org/",
+          "desc": {
+            "en": "A Search Engine for Threats",
+            "zh": "威胁搜索引擎"
+          }
+        },
+        {
+          "name": "ThreatMiner",
+          "link": "https://www.threatminer.org/",
+          "desc": {
+            "en": "Data Mining for Threat Intelligence",
+            "zh": "威胁情报的数据挖掘"
+          }
+        },
+        {
+          "name": "VirusTotal",
+          "link": "https://www.virustotal.com/",
+          "desc": {
+            "en": "Analyze suspicious files, domains, IPs and URLs to detect malware and other breaches",
+            "zh": "分析可疑文件、域、IP 和 URL 以检测恶意软件和其他漏洞"
+          }
+        },
+        {
+          "name": "vx-underground.org",
+          "link": "https://www.vx-underground.org/",
+          "desc": {
+            "en": "The largest collection of malware source code, samples, and papers on the internet",
+            "zh": "互联网上最大的恶意软件源代码、样本和论文集合"
+          }
+        },
+        {
+          "name": "bazaar.abuse.ch",
+          "link": "https://bazaar.abuse.ch/browse/",
+          "desc": {
+            "en": "Malware sample database",
+            "zh": "恶意软件样本数据库"
+          }
+        },
+        {
+          "name": "feodotracker.abuse.ch",
+          "link": "https://feodotracker.abuse.ch/browse/",
+          "desc": {
+            "en": "List of botnet Command&Control servers",
+            "zh": "僵尸网络命令和控制服务器列表"
+          }
+        },
+        {
+          "name": "sslbl.abuse.ch",
+          "link": "https://sslbl.abuse.ch/ssl-certificates/",
+          "desc": {
+            "en": "All malicious SSL certificates",
+            "zh": "所有恶意 SSL 证书"
+          }
+        },
+        {
+          "name": "urlhaus.abuse.ch",
+          "link": "https://urlhaus.abuse.ch/browse/",
+          "desc": {
+            "en": "Propose new malware urls",
+            "zh": "提议新的恶意软件 URL"
+          }
+        },
+        {
+          "name": "threatfox.abuse.ch",
+          "link": "https://threatfox.abuse.ch/browse/",
+          "desc": {
+            "en": "Indicator Of Compromise (IOC) database",
+            "zh": "失陷指标（IOC）数据库"
+          }
+        },
+        {
+          "name": "yaraify.abuse.ch",
+          "link": "https://yaraify.abuse.ch/",
+          "desc": {
+            "en": "Scan suspicious files such as malware samples or process dumps against a large repository of YARA rules",
+            "zh": "使用大型 YARA 规则存储库扫描可疑文件，如恶意软件样本或进程转储"
+          }
+        },
+        {
+          "name": "Rescure",
+          "link": "https://rescure.me/",
+          "desc": {
+            "en": "Curated cyber threat intelligence for everyone",
+            "zh": "为所有人提供精选的网络威胁情报"
+          }
+        },
+        {
+          "name": "otx.alienvault",
+          "link": "https://otx.alienvault.com/",
+          "desc": {
+            "en": "The World's First Truly Open Threat Intelligence Community",
+            "zh": "世界上第一个真正开放的威胁情报社区"
+          }
+        },
+        {
+          "name": "urlquery.net",
+          "link": "https://urlquery.net/",
+          "desc": {
+            "en": "Service for detecting and analyzing web-based malware",
+            "zh": "检测和分析基于 Web 的恶意软件的服务"
+          }
+        },
+        {
+          "name": "socradar.io",
+          "link": "https://socradar.io/",
+          "desc": {
+            "en": "Extension to your SOC team",
+            "zh": "拓展至您的 SOC 团队"
+          }
+        },
+        {
+          "name": "VirusShare",
+          "link": "https://virusshare.com/",
+          "desc": {
+            "en": "System currently contains 48 million malware samples",
+            "zh": "系统目前包含 4800 万个恶意软件样本"
+          }
+        },
+        {
+          "name": "PassiveTotal",
+          "link": "https://www.riskiq.com/products/passivetotal/",
+          "desc": {
+            "en": "Security intelligence that scales security operations and response",
+            "zh": "用于扩展安全运营和响应的安全情报"
+          }
+        },
+        {
+          "name": "malapi.io",
+          "link": "https://malapi.io/",
+          "desc": {
+            "en": "Windows APIs used for malicious purposes",
+            "zh": "用于恶意目的的 Windows API"
+          }
+        },
+        {
+          "name": "filesec.io",
+          "link": "https://filesec.io/",
+          "desc": {
+            "en": "Latest file extensions being used by attackers",
+            "zh": "攻击者正在使用的最新的文件扩展名"
+          }
+        },
+        {
+          "name": "leakix.net",
+          "link": "https://leakix.net/",
+          "desc": {
+            "en": "Search engine indexing public information and an open reporting platform linked to the results",
+            "zh": "索引公共信息的搜索引擎和与结果相关联的开放报告平台"
+          }
+        },
+        {
+          "name": "tria.ge",
+          "link": "https://tria.ge/s",
+          "desc": {
+            "en": "Fully automated solution for high-volume malware analysis using advanced sandboxing technology",
+            "zh": "使用先进的沙箱技术进行高容量恶意软件分析的完全自动化解决方案"
+          }
+        },
+        {
+          "name": "Polyswarm",
+          "link": "https://polyswarm.network/",
+          "desc": {
+            "en": "Launchpad for new technologies and innovative threat detection methods",
+            "zh": "新技术和创新威胁检测方法的启动平台"
+          }
+        },
+        {
+          "name": "Cisco Talos",
+          "link": "https://talosintelligence.com/",
+          "desc": {
+            "en": "The threat intelligence organization at the center of the Cisco Security portfolio",
+            "zh": "在思科安全产品组合中心的威胁情报组织"
+          }
+        },
+        {
+          "name": "scamsearch.io",
+          "link": "https://scamsearch.io/#anchorCeckNow",
+          "desc": {
+            "en": "Find your scammer online & report them",
+            "zh": "找到在线的诈骗者并举报他们"
+          }
+        },
+        {
+          "name": "CyberCampaigns",
+          "link": "http://www.cybercampaigns.net/",
+          "desc": {
+            "en": "Threat Actor information and Write-Ups",
+            "zh": "威胁行为者信息和详细报告"
+          }
+        },
+        {
+          "name": "ORKL",
+          "link": "https://orkl.eu/",
+          "desc": {
+            "en": "The Community Driven Cyber Threat Intelligence Library",
+            "zh": "社区驱动的网络威胁情报库"
+          }
+        },
+        {
+          "name": "Maltiverse",
+          "link": "https://maltiverse.com/search",
+          "desc": {
+            "en": "Data from more than 100 different Threat Intelligence sources",
+            "zh": "来自 100 多个不同威胁情报来源的数据"
+          }
+        },
+        {
+          "name": "Inquest Labs",
+          "link": "https://labs.inquest.net/",
+          "desc": {
+            "en": "Threat intelligence from hundreds of public, private, and internal sources to develop new FDR signatures and rules",
+            "zh": "来自数百个公共、私人和内部来源的威胁情报，用于开发新的 FDR 签名和规则"
+          }
+        },
+        {
+          "name": "PhishTank",
+          "link": "https://phishtank.org/",
+          "desc": {
+            "en": "Collaborative clearing house for data and information about phishing on the Internet",
+            "zh": "关于互联网上网络钓鱼的数据和信息的协作清算中心"
+          }
+        },
+        {
+          "name": "IntelOwl",
+          "link": "https://github.com/intelowlproject/IntelOwl",
+          "desc": {
+            "en": "Open Source Intelligence, or OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale",
+            "zh": "开源情报，或 OSINT 解决方案，从单个 API 规模化地获取有关特定文件、IP 或域的威胁情报数据"
+          }
+        },
+        {
+          "name": "Lupovis",
+          "link": "https://prowl.lupovis.io/",
+          "desc": {
+            "en": "Analyze and collect data on Internet-wide scans and attacks in real-time. We use this data to identify and classify malicious actors",
+            "zh": "实时分析和收集互联网范围内的扫描和攻击数据。我们使用这些数据来识别和分类恶意行为者"
+          }
+        },
+        {
+          "name": "AbuseIPDB",
+          "link": "https://www.abuseipdb.com/",
+          "desc": {
+            "en": "Check the report history of any IP address to see if anyone else has reported malicious activities",
+            "zh": "检查任何 IP 地址的报告历史，看看是否有其他人报告了恶意活动"
+          }
+        },
+        {
+          "name": "Sucuri SiteCheck",
+          "link": "https://sitecheck.sucuri.net/",
+          "desc": {
+            "en": "Check websites for known malware, viruses, blacklisting status, website errors, out-of-date software, and malicious code",
+            "zh": "检查网站中已知恶意软件、病毒、黑名单状态、网站错误、过时软件和恶意代码"
+          }
+        },
+        {
+          "name": "Spamhaus",
+          "link": "https://spamhaus.com",
+          "desc": {
+            "en": "Protect and investigate using IP and domain reputation data",
+            "zh": "使用 IP 和域声誉数据进行保护和调查"
+          }
+        },
+        {
+          "name": "ThreatBook",
+          "link": "https://threatbook.io/",
+          "desc": {
+            "en": "One step ahead of your adversary with high-fidelity, efficient and actionable cyber threat intelligence",
+            "zh": "使用高保真、高效和可操作的网络威胁情报领先对手"
+          }
+        },
+        {
+          "name": "ShadowServer",
+          "link": "https://www.shadowserver.org/",
+          "desc": {
+            "en": "Nonprofit security organization working altruistically behind the scenes to make the Internet more secure for everyone",
+            "zh": "非营利性安全组织，在幕后工作默默付出，使互联网对每个人都更安全"
+          }
+        },
+        {
+          "name": "Team Cymru",
+          "link": "https://www.team-cymru.com/",
+          "desc": {
+            "en": "Global leader in cyber threat intelligence and attack surface management",
+            "zh": "网络威胁情报和攻击面管理的全球领导者"
+          }
+        },
+        {
+          "name": "BeVigil",
+          "link": "https://bevigil.com/",
+          "desc": {
+            "en": "Search engine for mobile application security testing",
+            "zh": "移动应用程序安全测试搜索引擎"
+          }
+        },
+        {
+          "name": "CIRCL",
+          "link": "https://www.circl.lu/",
+          "desc": {
+            "en": "The Computer Incident Response Center Luxembourg is a government-driven initiative designed to gather, review, report and respond to computer security threats and incidents",
+            "zh": "计算机事件响应中心卢森堡是一个政府驱动的倡议，旨在收集、审查、报告和响应计算机安全威胁和事件"
+          }
+        },
+        {
+          "name": "MetaDefender Cloud",
+          "link": "https://metadefender.opswat.com/",
+          "desc": {
+            "en": "Advanced threat detection and prevention platform",
+            "zh": "先进的威胁检测和预防平台"
+          }
+        },
+        {
+          "name": "Cybersixgill",
+          "link": "https://cybersixgill.com/",
+          "desc": {
+            "en": "Threat intelligence platform that provides access to a wide range of cybersecurity information, including dark web monitoring and threat actor analysis",
+            "zh": "提供广泛的网络安全信息访问的威胁情报平台，包括暗网监控和威胁行为分析"
+          }
+        },
+        {
+          "name": "Hybrid Analysis",
+          "link": "https://www.hybrid-analysis.com/",
+          "desc": {
+            "en": "Free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology",
+            "zh": "为社区提供的免费恶意软件分析服务，使用独特的混合分析技术检测和分析未知威胁"
+          }
+        },
+        {
+          "name": "IBM X-Force Exchange",
+          "link": "https://exchange.xforce.ibmcloud.com/",
+          "desc": {
+            "en": "Threat intelligence sharing platform enabling research on security threats, aggregation of intelligence, and collaboration with peers",
+            "zh": "威胁情报共享平台，促进对安全威胁的研究、情报聚合和同行协作"
+          }
+        },
+        {
+          "name": "The DFIR Report",
+          "link": "https://thedfirreport.com/",
+          "desc": {
+            "en": "Real Intrusions by Real Attackers, The Truth Behind the Intrusion",
+            "zh": "真正的入侵者，入侵背后的真相"
+          }
+        },
+        {
+          "name": "Detection.FYI",
+          "link": "https://detection.fyi/",
+          "desc": {
+            "en": "Search Sigma rules",
+            "zh": "搜索 Sigma 规则"
+          }
+        },
+        {
+          "name": "WhoisXMLAPI",
+          "link": "https://www.whoisxmlapi.com/",
+          "desc": {
+            "en": "Domain & IP Data Intelligence for Greater Enterprise Security",
+            "zh": "域名和 IP 数据情报，用于提升企业安全性"
+          }
+        },
+        {
+          "name": "APIVoid",
+          "link": "https://www.apivoid.com/",
+          "desc": {
+            "en": "Threat analysis centered on IP and Domain reputation, along with additional services",
+            "zh": "基于 IP 和域名声誉的威胁分析，以及其他附加服务"
+          }
+        },
+        {
+          "name": "AnyRun",
+          "link": "https://app.any.run/submissions",
+          "desc": {
+            "en": "Browse thousands of malware samples in our database",
+            "zh": "在我们的数据库中浏览数千个恶意软件样本"
+          }
+        },
+        {
+          "name": "Filescan.io",
+          "link": "https://www.filescan.io/reports",
+          "desc": {
+            "en": "Search reports for file name, URL, IP, Domain or Hash",
+            "zh": "搜索文件名、URL、IP、域或哈希的报告"
+          }
+        },
+        {
+          "name": "MalShare",
+          "link": "https://malshare.com/",
+          "desc": {
+            "en": "Community driven public malware repository that works to provide free access to malware samples",
+            "zh": "社区驱动的公共恶意软件仓库，提供免费恶意软件样本的访问"
+          }
+        },
+        {
+          "name": "Kaspersky TIP",
+          "link": "https://opentip.kaspersky.com/requests",
+          "desc": {
+            "en": "Scan files, domains, IP addresses, and URLs for threats, malware, viruses",
+            "zh": "扫描文件、域、IP 地址和 URL 以找到威胁、恶意软件、病毒"
+          }
+        },
+        {
+          "name": "Malwares.com",
+          "link": "https://malwares.com/",
+          "desc": {
+            "en": "Search malwares online",
+            "zh": "在线搜索恶意软件"
+          }
+        },
+        {
+          "name": "ApkLab",
+          "link": "https://www.apklab.io/",
+          "desc": {
+            "en": "Mobile threat intelligence platform designed to provide the most relevant information for Android security researchers",
+            "zh": "为 Android 安全研究人员而设计，提供最相关的信息的移动威胁情报平台，"
+          }
+        },
+        {
+          "name": "Scumware",
+          "link": "https://www.scumware.org/search.php",
+          "desc": {
+            "en": "Find latest reports about malware and other threats",
+            "zh": "查找有关恶意软件和其他威胁的最新报告"
+          }
+        },
+        {
+          "name": "Living off the False Positive",
+          "link": "https://br0k3nlab.com/LoFP/",
+          "desc": {
+            "en": "Autogenerated collection of false positives sourced from some of the most popular rule sets",
+            "zh": "从一些最受欢迎的规则集中自动生成的误报收藏列表"
+          }
+        },
+        {
+          "name": "HijackLibs",
+          "link": "https://hijacklibs.net/",
+          "desc": {
+            "en": "Project for tracking publicly disclosed DLL Hijacking opportunities",
+            "zh": "跟踪公开披露的 DLL 劫持机会的项目"
+          }
+        },
+        {
+          "name": "bootloaders.io",
+          "link": "https://www.bootloaders.io/",
+          "desc": {
+            "en": "Curated list of known malicious bootloaders for various operating systems",
+            "zh": "已知的针对各种操作系统的恶意引导程序的精选列表"
+          }
+        },
+        {
+          "name": "WTFBins",
+          "link": "https://wtfbins.wtf/",
+          "desc": {
+            "en": "Catalogue benign applications that exhibit suspicious behavior. These binaries can emit noise and false positives in threat hunting and automated detections",
+            "zh": "目录良性应用程序，展示可疑行为。这些二进制文件可以在威胁狩猎和自动检测中产生噪声和误报"
+          }
+        },
+        {
+          "name": "LOFLCAB",
+          "link": "https://lofl-project.github.io/",
+          "desc": {
+            "en": "Document every cmdlet, binary, script, and WMI class that can be used for Living Off the Foreign Land techniques",
+            "zh": "记录可用于异国离地攻击技术（LOFTL）的命令程序、二进制文件、脚本和 WMI 类"
+          }
+        },
+        {
+          "name": "OpSecFailure",
+          "link": "https://opsecfail.github.io/",
+          "desc": {
+            "en": "Site that lists how individuals messed up their opsec, no personal info is shared on this site",
+            "zh": "列出个人如何搞砸他们的操作安全的网站，此网站上不共享个人信息"
+          }
+        },
+        {
+          "name": "TrailDiscover",
+          "link": "https://traildiscover.cloud/",
+          "desc": {
+            "en": "An evolving repository of CloudTrail events with detailed descriptions, MITRE ATT&CK insights, real-world incidents, references and security implications",
+            "zh": "一个不断发展的 CloudTrail 事件存储库，包含详细的描述、MITRE ATT&CK 洞察、真实世界的事件、参考资料和安全影响"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Web History",
+        "zh": "网络历史"
+      },
+      "websites": [
+        {
+          "name": "Web Archive",
+          "link": "https://web.archive.org/",
+          "desc": {
+            "en": "Explore more than 702 billion web pages saved over time",
+            "zh": "探索超过 7020 亿个随时间保存的网页"
+          }
+        },
+        {
+          "name": "Archive.ph",
+          "link": "https://archive.ph/",
+          "desc": {
+            "en": "Create a copy of a webpage that will always be up even if the original link is down",
+            "zh": "创建一个网页副本，即使原始链接失效，该副本也将始终可用"
+          }
+        },
+        {
+          "name": "CachedPages",
+          "link": "http://www.cachedpages.com/",
+          "desc": {
+            "en": "Get the cached page of any URL",
+            "zh": "获取任何 URL 的缓存页面"
+          }
+        },
+        {
+          "name": "stored.website",
+          "link": "https://stored.website/",
+          "desc": {
+            "en": "View cached web pages/website",
+            "zh": "查看缓存的网页/网站"
+          }
+        },
+        {
+          "name": "CommonCrawl",
+          "link": "https://commoncrawl.org/",
+          "desc": {
+            "en": "Open repository of web crawl data",
+            "zh": "网络爬取数据的开放存储库"
+          }
+        },
+        {
+          "name": "UK Web Archive",
+          "link": "https://www.webarchive.org.uk/ukwa/",
+          "desc": {
+            "en": "Collects millions of websites each year, preserving them for future generations",
+            "zh": "每年收集数百万网站，为后代保存"
+          }
+        },
+        {
+          "name": "Arquivo",
+          "link": "https://arquivo.pt/",
+          "desc": {
+            "en": "Non-profit service that maintains information published on the web of interest to the Portuguese community",
+            "zh": "非营利性服务，维护对葡萄牙社区感兴趣的网络上发布的信息"
+          }
+        },
+        {
+          "name": "Archive-It",
+          "link": "https://archive-it.org/",
+          "desc": {
+            "en": "An archive of digital government and non-government organization (NGO) documents and reports",
+            "zh": "数字政府和非政府组织（NGO）文件和报告的存档"
+          }
+        },
+        {
+          "name": "HAW",
+          "link": "https://haw.nsk.hr/en/",
+          "desc": {
+            "en": "Croatian Web Archive",
+            "zh": "克罗地亚网络档案"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Surveillance cameras",
+        "zh": "监控摄像头"
+      },
+      "websites": [
+        {
+          "name": "Insecam.org",
+          "link": "http://www.insecam.org/en/",
+          "desc": {
+            "en": "The world biggest directory of online surveillance security cameras",
+            "zh": "世界上最大的在线监控安全摄像头目录"
+          }
+        },
+        {
+          "name": "Surveillance under Surveillance",
+          "link": "https://sunders.uber.space/",
+          "desc": {
+            "en": "Cameras and guards watching you almost everywhere",
+            "zh": "几乎在任何地方都有摄像头和警卫监视着你"
+          }
+        },
+        {
+          "name": "World Cams",
+          "link": "https://worldcams.tv/",
+          "desc": {
+            "en": "Live Streaming Webcams Like Never Seen Before",
+            "zh": "前所未有的实时流媒体网络摄像头直播"
+          }
+        },
+        {
+          "name": "Skylinewebcams",
+          "link": "https://www.skylinewebcams.com/",
+          "desc": {
+            "en": "Live HD webcams broadcasting from the world's best attractions and destinations",
+            "zh": "来自世界上最好的景点和目的地的实时高清网络摄像头"
+          }
+        },
+        {
+          "name": "WebKams",
+          "link": "https://www.webkams.com/",
+          "desc": {
+            "en": "Live Web Cameras Everywhere",
+            "zh": "遍布各地的实时网络摄像头"
+          }
+        },
+        {
+          "name": "WorldCam",
+          "link": "https://worldcam.eu/",
+          "desc": {
+            "en": "Webcams from around the world",
+            "zh": "来自世界各地的网络摄像头"
+          }
+        },
+        {
+          "name": "Webcam Hopper",
+          "link": "https://www.webcamhopper.com/",
+          "desc": {
+            "en": "Live Webcams from around the world",
+            "zh": "来自世界各地的实时网络摄像头"
+          }
+        },
+        {
+          "name": "Live Traffic",
+          "link": "https://livetraffic.eu/",
+          "desc": {
+            "en": "Real-time monitoring of Europe’s live traffic cameras",
+            "zh": "欧洲在线直播交通摄像头的实时监控"
+          }
+        },
+        {
+          "name": "Geocam.ru",
+          "link": "https://www.geocam.ru/en/",
+          "desc": {
+            "en": "Webcams of the world",
+            "zh": "全球网络摄像头"
+          }
+        },
+        {
+          "name": "Moldova's borders webcams",
+          "link": "https://www.border.gov.md/camere-web",
+          "desc": {
+            "en": "Official list of webcams at various border crossings around Moldova",
+            "zh": "摩尔多瓦各边境口岸的官方网络摄像头列表"
+          }
+        },
+        {
+          "name": "Earth Cam",
+          "link": "https://www.earthcam.com/",
+          "desc": {
+            "en": "Leading network of live streaming webcams for tourism and entertainment",
+            "zh": "用于旅游和娱乐的领先的实时流媒体网络摄像头网络"
+          }
+        },
+        {
+          "name": "Webcam Taxi",
+          "link": "https://www.webcamtaxi.com/en/",
+          "desc": {
+            "en": "Live Virtual Travel",
+            "zh": "实时虚拟旅行"
+          }
+        },
+        {
+          "name": "LiveWorldWebcams",
+          "link": "https://liveworldwebcams.com/",
+          "desc": {
+            "en": "Live streaming webcams from around the world",
+            "zh": "来自世界各地的实时流媒体网络摄像头"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Crypto",
+        "zh": "加密货币"
+      },
+      "websites": [
+        {
+          "name": "ChainAbuse",
+          "link": "https://www.chainabuse.com/",
+          "desc": {
+            "en": "Report malicious crypto activity",
+            "zh": "报告恶意加密货币活动"
+          }
+        },
+        {
+          "name": "BlockChair",
+          "link": "https://blockchair.com/",
+          "desc": {
+            "en": "Blockchain explorer, analytics and web services",
+            "zh": "区块链浏览器，分析和网络服务"
+          }
+        },
+        {
+          "name": "BlockCypher",
+          "link": "https://live.blockcypher.com/",
+          "desc": {
+            "en": "Search the block chain",
+            "zh": "搜索区块链"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "People",
+        "zh": "人员"
+      },
+      "websites": [
+        {
+          "name": "TruePeopleSearch",
+          "link": "https://www.truepeoplesearch.com/",
+          "desc": {
+            "en": "Free people search tool. Search billions of public records",
+            "zh": "免费人员搜索工具。搜索数十亿条公共记录"
+          }
+        },
+        {
+          "name": "TruthFinder",
+          "link": "https://www.truthfinder.com/people-search/",
+          "desc": {
+            "en": "A people search is a quick and simple way to find information on someone by name",
+            "zh": "通过姓名快速简单地查找某人信息的人员搜索工具"
+          }
+        },
+        {
+          "name": "BeenVerified",
+          "link": "https://www.beenverified.com/",
+          "desc": {
+            "en": "BeenVerified's mission is to give people easy and affordable access to public record information",
+            "zh": "BeenVerified 的使命是让人们轻松且负担得起地获取公共记录信息"
+          }
+        },
+        {
+          "name": "ZabaSearch",
+          "link": "https://www.zabasearch.com/",
+          "desc": {
+            "en": "Free* People Search and Public Information Search Engine",
+            "zh": "“免费”的人员搜索和公共信息搜索引擎"
+          }
+        },
+        {
+          "name": "PeekYou",
+          "link": "https://www.peekyou.com/",
+          "desc": {
+            "en": "Fast People Search Made Easy",
+            "zh": "快速简单的人员搜索"
+          }
+        },
+        {
+          "name": "PeopleFinders",
+          "link": "https://www.peoplefinders.com/people-search",
+          "desc": {
+            "en": "People Search",
+            "zh": "人员搜索"
+          }
+        },
+        {
+          "name": "Pipl",
+          "link": "https://pipl.com/",
+          "desc": {
+            "en": "The #1 source for identity & trust",
+            "zh": "身份和信任的第一来源"
+          }
+        },
+        {
+          "name": "That's Them",
+          "link": "https://thatsthem.com/people-search",
+          "desc": {
+            "en": "Find Someone's Contact Details By Name",
+            "zh": "通过姓名找到某人的联系方式"
+          }
+        },
+        {
+          "name": "snitch.name",
+          "link": "http://snitch.name/",
+          "desc": {
+            "en": "Social White Pages application with helps you Search for People's Profiles on Social Sites",
+            "zh": "社交白页应用程序，帮助您搜索社交网站上的人们个人资料"
+          }
+        },
+        {
+          "name": "Webmii",
+          "link": "https://webmii.com/",
+          "desc": {
+            "en": "People search engine",
+            "zh": "人员搜索引擎"
+          }
+        },
+        {
+          "name": "FastPeopleSearch",
+          "link": "https://www.fastpeoplesearch.com/",
+          "desc": {
+            "en": "Find a person by name, phone number, or street address",
+            "zh": "通过姓名，电话号码或街道地址找到某人"
+          }
+        },
+        {
+          "name": "Sorted By Name",
+          "link": "https://sortedbyname.com/",
+          "desc": {
+            "en": "A curated collection of links to genealogy details mentioned on other websites, or acquired by the webmaster",
+            "zh": "精选列表，链接到其他网站上提到的家谱细节，或由网站管理员获取"
+          }
+        },
+        {
+          "name": "Radaris",
+          "link": "https://radaris.com/",
+          "desc": {
+            "en": "Find People Fast and Free",
+            "zh": "快速免费找到人"
+          }
+        },
+        {
+          "name": "Addresses.com",
+          "link": "https://www.addresses.com/",
+          "desc": {
+            "en": "Free People Search and Public Information Search Engine",
+            "zh": "免费人员搜索和公共信息搜索引擎"
+          }
+        },
+        {
+          "name": "Advanced Background Checks",
+          "link": "https://www.advancedbackgroundchecks.com/",
+          "desc": {
+            "en": "Free People Search",
+            "zh": "免费人员搜索"
+          }
+        },
+        {
+          "name": "Yasni",
+          "link": "http://www.yasni.com/",
+          "desc": {
+            "en": "Search phone, email, address for any name. News, pictures & links for any person. Find anyone on the internet with the world's largest free people search",
+            "zh": "搜索任何名字的电话号码、电子邮件、地址。任何人的新闻、图片和链接。使用世界上最大的免费人员搜索，在互联网上找到任何人"
+          }
+        },
+        {
+          "name": "USA Data Search",
+          "link": "https://usa-official.com/",
+          "desc": {
+            "en": "The USA official website provides access to public data that can be searched and viewed by anyone",
+            "zh": "美国官方网站提供可以由任何人搜索和查看的公共数据"
+          }
+        },
+        {
+          "name": "AnyWho",
+          "link": "https://www.anywho.com/",
+          "desc": {
+            "en": "Finding People, Places, and Businesses",
+            "zh": "查找人员、地点和企业"
+          }
+        },
+        {
+          "name": "Lullar",
+          "link": "https://com.lullar.com/",
+          "desc": {
+            "en": "Profile Search by Email, First Last Name or Username",
+            "zh": "通过电子邮件、姓名或用户名搜索个人资料"
+          }
+        },
+        {
+          "name": "Ancestry",
+          "link": "https://www.ancestry.com/search/",
+          "desc": {
+            "en": "The largest for-profit genealogy company in the world, it operates a network of genealogical, historical records, and related genetic genealogy websites",
+            "zh": "世界上最大的营利性家谱公司，它运营着一个家谱、历史记录和相关遗传家谱网站的网络"
+          }
+        },
+        {
+          "name": "genealogy.com",
+          "link": "https://www.genealogy.com/",
+          "desc": {
+            "en": "Source for family history buffs to find genealogical research originally posted in GenForum and our most popular genealogy articles",
+            "zh": "家谱爱好者寻找家谱研究的来源，最初发布在 GenForum 上，以及我们最受欢迎的家谱文章"
+          }
+        },
+        {
+          "name": "US Search",
+          "link": "https://www.ussearch.com/",
+          "desc": {
+            "en": "Access to details about the people in your life. Access public records, contact information, background checks & more",
+            "zh": "访问有关您生活中人们的详细信息。访问公共记录、联系信息、背景调查等"
+          }
+        },
+        {
+          "name": "Find My Past",
+          "link": "https://search.findmypast.com/search-world-records",
+          "desc": {
+            "en": "Discover your global ancestors by searching millions of records across the world",
+            "zh": "通过搜索全球数百万记录，发现您的全球祖先"
+          }
+        },
+        {
+          "name": "FamilySearch",
+          "link": "https://www.familysearch.org/search/",
+          "desc": {
+            "en": "Search for your ancestors in birth certificates, marriage registrations, census records, and other documents",
+            "zh": "在出生证书、结婚登记、人口普查记录和其他文档中搜索您的祖先"
+          }
+        },
+        {
+          "name": "iTools - Wink People Search",
+          "link": "http://itools.com/tool/wink-people-search",
+          "desc": {
+            "en": "Free people search. Find people on social networks and across the Web",
+            "zh": "免费人员搜索。在社交网络和整个网络上找人"
+          }
+        },
+        {
+          "name": "Intelius",
+          "link": "https://www.intelius.com/",
+          "desc": {
+            "en": "Leading provider of public data about people and their connections to others",
+            "zh": "有关人员及其与他人的联系的公共数据的领先提供商"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Unclassified",
+        "zh": "未分类"
+      },
+      "websites": [
+        {
+          "name": "DorkSearch",
+          "link": "https://dorksearch.com/",
+          "desc": {
+            "en": "Speed up your Dorking",
+            "zh": "加速你的 Dorking"
+          }
+        },
+        {
+          "name": "usersearch.org",
+          "link": "https://usersearch.org/",
+          "desc": {
+            "en": "Find someone by username or email on Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs",
+            "zh": "通过用户名或电子邮件在社交网络、约会网站、论坛、加密论坛、聊天网站和博客上找到某人"
+          }
+        },
+        {
+          "name": "Pastebin",
+          "link": "https://pastebin.com/",
+          "desc": {
+            "en": "Website where you can store text online for a set period of time",
+            "zh": "一个可以在一段时间内在线存储文本的网站"
+          }
+        },
+        {
+          "name": "Wappalyzer",
+          "link": "https://www.wappalyzer.com/",
+          "desc": {
+            "en": "Instant access to website technology stacks, company and contact details, social media profiles, email verification and more",
+            "zh": "即时访问网站技术栈、公司和联系信息、社交媒体个人资料、电子邮件验证等"
+          }
+        },
+        {
+          "name": "Awakari",
+          "link": "https://awakari.com",
+          "desc": {
+            "en": "Real-Time Search from unlimited sources like RSS, Fediverse, Telegram, etc. Filter events by keywords, numeric conditions, condition groups",
+            "zh": "来自 RSS、Fediverse、Telegram 等无限来源的实时搜索。通过关键字、数值条件、条件组过滤事件"
+          }
+        }
+      ]
+    },
+    {
+      "topic": {
+        "en": "Not working / Paused",
+        "zh": "不再运行/已暂停"
+      },
+      "websites": [
+        {
+          "name": "DNS.BufferOver.run",
+          "link": "https://dns.bufferover.run/",
+          "desc": {
+            "en": "",
+            "zh": ""
+          }
+        },
+        {
+          "name": "NetoGraph",
+          "link": "https://netograph.io/",
+          "desc": {
+            "en": "Captures and indexes detailed, low-level snapshots of website behaviour",
+            "zh": "捕获并索引网站行为的详细、低级快照"
+          }
+        },
+        {
+          "name": "Hashdd",
+          "link": "https://hashdd.com/",
+          "desc": {
+            "en": "Known Good Cryptographic Hashes",
+            "zh": "已知的良好加密哈希"
+          }
+        }
+      ]
+    }
+  ],
+  "duplicates": [
+    {
+      "link": "https://www.rapid7.com/db/",
+      "topics": [
+        "Vulnerabilities",
+        "Exploits"
+      ]
+    },
+    {
+      "link": "https://synapsint.com/",
+      "topics": [
+        "Vulnerabilities",
+        "Mail Addresses",
+        "Domains",
+        "Certificates",
+        "Phone Numbers"
+      ]
+    },
+    {
+      "link": "https://vulmon.com/",
+      "topics": [
+        "Vulnerabilities",
+        "Exploits"
+      ]
+    },
+    {
+      "link": "https://phonebook.cz/",
+      "topics": [
+        "Mail Addresses",
+        "Domains",
+        "URLs"
+      ]
+    },
+    {
+      "link": "https://intelx.io/",
+      "topics": [
+        "Mail Addresses",
+        "Domains",
+        "URLs"
+      ]
+    },
+    {
+      "link": "https://rocketreach.co/",
+      "topics": [
+        "Mail Addresses",
+        "Phone Numbers"
+      ]
+    },
+    {
+      "link": "https://api.c99.nl/",
+      "topics": [
+        "Domains",
+        "DNS",
+        "Phone Numbers"
+      ]
+    },
+    {
+      "link": "https://wannabe1337.xyz/",
+      "topics": [
+        "Domains",
+        "DNS"
+      ]
+    },
+    {
+      "link": "https://hackertarget.com/ip-tools/",
+      "topics": [
+        "URLs",
+        "DNS"
+      ]
+    }
+  ]
+}
