@@ -126,6 +126,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [LOLAPPS](https://lolapps-project.github.io/) - Compendium of applications that can be used to carry out day-to-day exploitation
 - [Living off the Hardware](https://lothardware.com.tr/) - Resource collection that provides guidance on identifying and utilizing malicious hardware and malicious devices
 - [Living Off the Pipeline](https://boostsecurityio.github.io/lotp/) - How development tools commonly used in CI/CD pipelines can be used to achieve arbitrary code execution
+- [hackyx.io](https://hackyx.io/) - The aim of this project is to easily find any resource related to IT security like CTF writeups, articles or Bug Bounty reports
 
 ### Attack Surface
 
@@ -323,6 +324,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Hashmob](https://hashmob.net/search) - The Largest Password Recovery Community
 - [WhiteIntel](https://whiteintel.io/) - Check if a company or its customers was victim of an information stealer malware
 - [ntlm.pw](https://ntlm.pw/) - Instantly look up NTLM hashes and resolve them to plaintext passwords using our database with 8B+ entries
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Use Hudson Rock’s free cybercrime intelligence tools to learn how compromised credentials are impacting your business
 
 ### Leaks
 
@@ -330,7 +332,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [Leak-Lookup](https://leak-lookup.com/) - Search across thousands of data breaches
 - [Snusbase](https://snusbase.com/) - Stay on top of the latest database breaches
 - [breachdirectory.org](https://breachdirectory.org/) - Check if your information was exposed in a data breach
-- [BreachForums](https://breached.to/) - Breaches, Data leaks, databases and more
+- [BreachForums](https://breachforums.st/) - Breaches, Data leaks, databases and more
 - [Siph0n Breach DB (onionsite)](siphondkh34l5vki.onion/) - Breaches, Data leaks, Exploits
 - [Exposed Forum](https://exposed.vc/) - The premier Databreach discussion & leaks forum
 - [Distributed Denial of Secrets](https://ddosecrets.com/) - Journalist 501(c)(3) non-profit devoted to publishing and archiving leaks
