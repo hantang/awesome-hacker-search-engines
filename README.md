@@ -66,6 +66,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [FOFA](https://fofa.info/) - Cyberspace mapping
 - [Quake](https://quake.360.net/quake/#/index) - Cyberspace surveying and mapping system
 - [Hunter](https://hunter.how/) - Internet Search Engines For Security Researchers
+- [ODIN](https://getodin.com/) - One of the most powerful search engines for Scanned Internet Assets
 
 ### Vulnerabilities
 
@@ -176,6 +177,7 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [ScriptMafia](https://scriptmafia.org) - Download full nulled scripts
 - [SearchFTPs](https://www.searchftps.net/) - The most advanced FTP Search Engine service maintained by members
 - [Ecosyste.ms](https://ecosyste.ms/) - An open API service providing package, version and dependency metadata of many open source software ecosystems and registries
+- [SwaggerHub](https://app.swaggerhub.com/search) - Search public APIs and Domains in SwaggerHub
 
 ### Mail Addresses
 
@@ -288,11 +290,12 @@ A curated list of awesome search engines useful during Penetration testing, Vuln
 - [tls.bufferover.run](https://tls.bufferover.run/) - Quickly find certificates in IPv4 space
 - [CertSpotter](https://sslmate.com/certspotter/) - Monitors your domains for expiring, unauthorized, and invalid SSL certificates
 - [SynapsInt](https://synapsint.com/) - The unified OSINT research tool
-- [Censys Search - Certificates](https://search.censys.io/certificates) - Certificates Search
+- [Censys Search - Certificates](https://search.censys.io/#) - Certificates Search
 - [ciphersuite.info](https://ciphersuite.info/) - TLS Ciphersuite Search. Search for a particular cipher suite by using IANA, OpenSSL or GnuTLS name format
 - [certificatedetails](https://certificatedetails.com/) - Online certificate viewer. Inspect and download certificates from your browser
 - [FacebookCT](https://developers.facebook.com/tools/ct/search/) - Search for certificates issued for a given domain and subscribe to notifications from Facebook regarding new certificates
 - [certs.io](https://certs.io/) - Search TLS certificates across the internet.
+- [ODIN Certificates Search](https://getodin.com/search/certificates) - ODIN Certificates Search
 
 ### WiFi Networks
 
